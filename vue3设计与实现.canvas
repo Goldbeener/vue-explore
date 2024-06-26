@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"f02e2f8b07762b6e","type":"text","text":"","x":455,"y":231,"width":250,"height":60},
+		{"id":"3ddc71785ecec5ee","type":"file","file":"01框架概览/视图框架思想.md","x":0,"y":0,"width":400,"height":272,"color":"5"},
+		{"id":"06e7a0c31ee55738","type":"file","file":"Vue3.md","x":0,"y":503,"width":400,"height":269,"color":"#f71d1d"},
+		{"id":"11397045599f843a","type":"file","file":"02响应式系统/响应式系统.md","x":-482,"y":1088,"width":338,"height":275},
+		{"id":"854110653164941f","type":"file","file":"04组件化/组件化.md","x":848,"y":1088,"width":384,"height":275},
+		{"id":"58afb51d6f4d3e3e","type":"file","file":"05编译器/编译器.md","x":400,"y":1088,"width":345,"height":275},
+		{"id":"c456ea17dd28a250","type":"file","file":"03渲染器/渲染器.md","x":-46,"y":1088,"width":323,"height":275},
+		{"id":"8bff2a58ba4b6fed","type":"file","file":"02响应式系统/原始值响应方案.md","x":-1444,"y":2126,"width":377,"height":308},
+		{"id":"c3fd3ca0b6e306c5","type":"file","file":"02响应式系统/响应式数据延伸.md","x":-891,"y":2126,"width":335,"height":308},
+		{"id":"98813e532025df89","type":"file","file":"02响应式系统/非原始值响应方案.md","x":-1147,"y":1618,"width":366,"height":308},
+		{"id":"8a8cc7cc13e094d8","type":"file","file":"03渲染器/渲染函数.md","x":-246,"y":1618,"width":387,"height":308},
+		{"id":"b0488a3366b19c44","type":"text","text":"框架想要解决什么问题？\n以及解决方案的理论依据","x":493,"y":52,"width":349,"height":105},
+		{"id":"8a30ee8910765b1e","type":"text","text":"Vue3的一些核心概念","x":495,"y":578,"width":250,"height":60},
+		{"id":"8fdaab884442a0ae","type":"file","file":"0mgs/render-pipeline.png","x":-252,"y":2017,"width":399,"height":145}
+	],
+	"edges":[
+		{"id":"ff4992f122616360","fromNode":"3ddc71785ecec5ee","fromSide":"bottom","toNode":"06e7a0c31ee55738","toSide":"top"},
+		{"id":"6e2db9b5e7252153","fromNode":"06e7a0c31ee55738","fromSide":"bottom","toNode":"c456ea17dd28a250","toSide":"top"},
+		{"id":"268212922f99d71a","fromNode":"06e7a0c31ee55738","fromSide":"bottom","toNode":"11397045599f843a","toSide":"top"},
+		{"id":"fabbf8a5e3e03375","fromNode":"06e7a0c31ee55738","fromSide":"bottom","toNode":"58afb51d6f4d3e3e","toSide":"top"},
+		{"id":"0e569c5ddc616a4a","fromNode":"06e7a0c31ee55738","fromSide":"bottom","toNode":"854110653164941f","toSide":"top"},
+		{"id":"2e26b54fe1d7ccd7","fromNode":"98813e532025df89","fromSide":"bottom","toNode":"8bff2a58ba4b6fed","toSide":"top"},
+		{"id":"9a7a5fd973157127","fromNode":"98813e532025df89","fromSide":"bottom","toNode":"c3fd3ca0b6e306c5","toSide":"top"},
+		{"id":"7393daa570b0947b","fromNode":"c456ea17dd28a250","fromSide":"bottom","toNode":"8a8cc7cc13e094d8","toSide":"top"},
+		{"id":"b885ea58dbed4708","fromNode":"11397045599f843a","fromSide":"bottom","toNode":"8a8cc7cc13e094d8","toSide":"left","fromEnd":"arrow","label":"双向绑定"},
+		{"id":"6db5960f99100ce0","fromNode":"11397045599f843a","fromSide":"left","toNode":"98813e532025df89","toSide":"top"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+  "accentColor": "#13618b",
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Andale Mono",
+  "baseFontSize": 20,
+  "enabledCssSnippets": [
+    "minimal-plus"
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "0ad54b4b02864a26",
+    "type": "split",
+    "children": [
+      {
+        "id": "91eff36cb1c35b40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8782e04e8794ad6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07相关技术点/Proxy & Reflect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6904e2dd9631641",
+    "type": "split",
+    "children": [
+      {
+        "id": "8feae76367b098a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e7ddd16e7a18975",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31450d9dbf3cb199",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56b0ad5c3a1a45d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "a752aba972f4b1ad",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "vue3设计与实现.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "dc72dd5e24e45f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "f72f9d122a633a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e5252a94146e986",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07相关技术点/Proxy & Reflect.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "418180d834e2f15e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07相关技术点/Proxy & Reflect.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f312e6fc4fd9f254",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "87bcba41fbe19556",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07相关技术点/Proxy & Reflect.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
+    }
+  },
+  "active": "8782e04e8794ad6d",
+  "lastOpenFiles": [
+    "0mgs/render-pipeline.png",
+    "07相关技术点/Proxy & Reflect.md",
+    "vue3技术点.canvas",
+    "Virtual DOM.md",
+    "07相关技术点/0mgs",
+    "07相关技术点",
+    "05编译器/编译优化.md",
+    "Vapor Mode.md",
+    "05编译器/解析器.md",
+    "03渲染器/渲染器.md",
+    "06服务端渲染/同构渲染.md",
+    "06服务端渲染",
+    "Vue3.md",
+    "状态与Hook函数.md",
+    "依赖注入 Provide-Inject.md",
+    "逻辑复用.md",
+    "03渲染器/跨平台.md",
+    "01框架概览/现代框架.md",
+    "01框架概览/视图框架思想.md",
+    "01框架概览/编程范式.md",
+    "04组件化/函数式组件.md",
+    "04组件化/组件化.md",
+    "01框架概览",
+    "04组件化",
+    "03渲染器/渲染函数.md",
+    "02响应式系统/非原始值响应方案.md",
+    "03渲染器/dom diff.md",
+    "02响应式系统/原始值响应方案.md",
+    "02响应式系统/响应式数据延伸.md",
+    "02响应式系统/响应式系统.md",
+    "02响应式系统",
+    "Vue挂载流程.canvas",
+    "03渲染器",
+    "05编译器/编译器.md",
+    "05编译器",
+    "vue3设计与实现.canvas",
+    "0mgs",
+    "Pasted image 20240221165749.png",
+    "Pasted image 20240221165940.png",
+    "2024-02-20.md",
+    "未命名 1.canvas"
+  ]
+}

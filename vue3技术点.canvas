@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"dcaecce05312575a","type":"text","text":"import/export 引入的是一个对象，在模块内的对导出值的修改，会实时反应在import中\n\ncurrentInstance / **getCurrentInstance()** ","x":-479,"y":-549,"width":295,"height":282},
+		{"id":"bd7935d20a916bd9","type":"text","text":"vnode 是虚拟dom 是组件渲染依赖的数据抽象，里面type是组件对象，shapeFlag是特征标示\n\ninstance 是组件实例对象","x":-468,"y":-210,"width":366,"height":205},
+		{"id":"78182e7be6d4df24","type":"text","text":"Object.create(obj)\n以指定的对象为原型，创建一个新对象\n可以复用对象的原型链寻值\nProvider/inject","x":-52,"y":-549,"width":336,"height":205},
+		{"id":"39ef19f7a6f4eef1","type":"text","text":"动态导入 import() 函数，\n实现组件动态加载、异步渲染","x":4,"y":-213,"width":372,"height":144},
+		{"id":"c15061546da6b1a7","x":-451,"y":100,"width":267,"height":193,"type":"text","text":"Proxy\nReflect"}
+	],
+	"edges":[]
+}
