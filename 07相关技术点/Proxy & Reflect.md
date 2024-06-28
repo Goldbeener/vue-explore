@@ -32,9 +32,16 @@ receiver 是接受者的意思
 表示调用对应属性或方法的主体对象
 通常情况下，无需使用，如果发生了继承，为了明确调用主体，就需要使用receiver
 
-**当代理对象是作为被继承者出现**？
+可以改变计算属性中this的指向
+
+
+
+在Proxy trap函数中
 
 > The receiver can either be the Proxy created or any object that inherits the Proxy.
 
 正常情况下，receiver是proxy对象
 如果发生继承，那么receiver是继承proxy的对象
+
+
+
