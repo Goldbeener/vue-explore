@@ -23,9 +23,11 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.6.5"
+                "file": "07相关技术点/Proxy & Reflect.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
