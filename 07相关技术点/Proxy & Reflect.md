@@ -9,6 +9,10 @@ receiver 是接受者的意思
 
 **当代理对象是作为被继承者出现**？
 
+> The receiver can either be the Proxy created or any object that inherits the Proxy.
+
+正常情况下，receiver是proxy
+
 # Reflect
 内置对象
 提供了一组与JS运行时操作对应的方法
