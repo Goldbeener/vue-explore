@@ -3,18 +3,6 @@
 为任何目标对象创建一个代理，从而拦截、定义对该对象的基本操作的自定义行为
 完全控制对内部对象的访问
 
-receiver 是接受者的意思
-表示调用对应属性或方法的主体对象
-通常情况下，无需使用，如果发生了继承，为了明确调用主体，就需要使用receiver
-
-**当代理对象是作为被继承者出现**？
-
-> The receiver can either be the Proxy created or any object that inherits the Proxy.
-
-正常情况下，receiver是proxy对象
-如果发生继承，那么receiver是继承proxy的对象
-
-
 # Reflect
 内置对象
 提供了一组与JS运行时操作对应的方法
@@ -37,3 +25,16 @@ receiver 是接受者的意思
 
 
 Reflect 一般用在Proxy的trap函数中，用来使得Proxy的拦截，更加简单，并且不影响原函数的设计
+
+
+# Receiver
+receiver 是接受者的意思
+表示调用对应属性或方法的主体对象
+通常情况下，无需使用，如果发生了继承，为了明确调用主体，就需要使用receiver
+
+**当代理对象是作为被继承者出现**？
+
+> The receiver can either be the Proxy created or any object that inherits the Proxy.
+
+正常情况下，receiver是proxy对象
+如果发生继承，那么receiver是继承proxy的对象
