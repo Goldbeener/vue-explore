@@ -11,7 +11,8 @@ receiver 是接受者的意思
 
 > The receiver can either be the Proxy created or any object that inherits the Proxy.
 
-正常情况下，receiver是proxy
+正常情况下，receiver是proxy对象
+如果发生继承，那么receiver是继承对象
 
 # Reflect
 内置对象
