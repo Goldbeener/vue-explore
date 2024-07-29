@@ -97,9 +97,11 @@
 		{"id":"61204d6a94e0fd23","type":"text","text":"triggerEffect","x":325,"y":-1807,"width":250,"height":57},
 		{"id":"ae6dd4bf1db36ba1","type":"text","text":"createDep","x":38,"y":-1810,"width":250,"height":60},
 		{"id":"c0bf7fb91265a0b6","x":-1467,"y":3361,"width":250,"height":60,"type":"text","text":"ref"},
-		{"id":"0199c96966223616","x":-1501,"y":3522,"width":284,"height":264,"type":"text","text":"RefImpl\nref带value就是在这一层实现的\n\n基本值通过value属性的getter、setter实现响应\n\n对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现"},
-		{"id":"c21e12344489332b","x":-1467,"y":3908,"width":250,"height":60,"type":"text","text":"Reactive"},
-		{"id":"5181678fc670eff6","x":-1517,"y":4117,"width":316,"height":50,"type":"text","text":"createReactiveObject"}
+		{"id":"0199c96966223616","x":-1501,"y":3522,"width":284,"height":264,"type":"text","text":"RefImpl\nref带value就是在这一层实现的\n\n\n\n对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现"},
+		{"id":"5181678fc670eff6","x":-1517,"y":4117,"width":316,"height":50,"type":"text","text":"createReactiveObject"},
+		{"id":"62a028c8baa3ec7a","x":-1494,"y":4294,"width":250,"height":60,"type":"text","text":"proxy"},
+		{"id":"3913d9d62d6dfee9","x":-1740,"y":3893,"width":250,"height":130,"type":"text","text":"基本值通过value属性的getter、setter实现响应"},
+		{"id":"c21e12344489332b","x":-1369,"y":3893,"width":250,"height":60,"type":"text","text":"Reactive"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -205,7 +207,9 @@
 		{"id":"02a11590ca211f71","fromNode":"61204d6a94e0fd23","fromSide":"bottom","toNode":"90d690106db98957","toSide":"top"},
 		{"id":"06cb0b999dea0b73","fromNode":"e5e446368854045f","fromSide":"bottom","toNode":"c0bf7fb91265a0b6","toSide":"top"},
 		{"id":"0fd6bbfa5e90e898","fromNode":"c0bf7fb91265a0b6","fromSide":"bottom","toNode":"0199c96966223616","toSide":"top"},
-		{"id":"8aaaca2c8af2eea6","fromNode":"0199c96966223616","fromSide":"bottom","toNode":"c21e12344489332b","toSide":"top"},
-		{"id":"d3de442932a14527","fromNode":"c21e12344489332b","fromSide":"bottom","toNode":"5181678fc670eff6","toSide":"top"}
+		{"id":"8aaaca2c8af2eea6","fromNode":"0199c96966223616","fromSide":"bottom","toNode":"c21e12344489332b","toSide":"top","label":"对象"},
+		{"id":"d3de442932a14527","fromNode":"c21e12344489332b","fromSide":"bottom","toNode":"5181678fc670eff6","toSide":"top"},
+		{"id":"5f734299f5ee4037","fromNode":"5181678fc670eff6","fromSide":"bottom","toNode":"62a028c8baa3ec7a","toSide":"top"},
+		{"id":"6fd6337f158ae8c6","fromNode":"0199c96966223616","fromSide":"bottom","toNode":"3913d9d62d6dfee9","toSide":"top","label":"基本值"}
 	]
 }
