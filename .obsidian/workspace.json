@@ -23,11 +23,14 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
-                "mode": "source",
-                "source": false
+                "file": "Vue挂载流程.canvas",
+                "viewState": {
+                  "x": -946.8900211611592,
+                  "y": 3348.9136000665458,
+                  "zoom": -0.6378017282685847
+                }
               }
             }
           }
@@ -113,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
+                "file": "Vue挂载流程.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
+                "file": "Vue挂载流程.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md"
+                "file": "Vue挂载流程.canvas"
               }
             }
           }
@@ -178,10 +181,11 @@
   },
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
+    "vue3设计与实现.canvas",
+    "vue3技术点.canvas",
+    "07相关技术点/Proxy & Reflect.md",
     "07相关技术点/0mgs",
     "0mgs/render-pipeline.png",
-    "07相关技术点/Proxy & Reflect.md",
-    "vue3技术点.canvas",
     "Virtual DOM.md",
     "07相关技术点",
     "05编译器/编译优化.md",
@@ -213,7 +217,6 @@
     "03渲染器",
     "05编译器/编译器.md",
     "05编译器",
-    "vue3设计与实现.canvas",
     "0mgs",
     "Pasted image 20240221165749.png",
     "Pasted image 20240221165940.png",
