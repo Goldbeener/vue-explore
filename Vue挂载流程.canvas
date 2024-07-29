@@ -97,7 +97,7 @@
 		{"id":"61204d6a94e0fd23","type":"text","text":"triggerEffect","x":325,"y":-1807,"width":250,"height":57},
 		{"id":"ae6dd4bf1db36ba1","type":"text","text":"createDep","x":38,"y":-1810,"width":250,"height":60},
 		{"id":"c0bf7fb91265a0b6","x":-1467,"y":3361,"width":250,"height":60,"type":"text","text":"ref"},
-		{"id":"0199c96966223616","x":-1501,"y":3593,"width":250,"height":60,"type":"text","text":"RefImpl\nref带value就是在这一层s\n"},
+		{"id":"0199c96966223616","x":-1501,"y":3561,"width":248,"height":138,"type":"text","text":"RefImpl\nref带value就是在这一层实现的\n\n基本值通过value属性的getter、setter实现响应\n\n对象，value返回的是reactive后的"},
 		{"id":"c21e12344489332b","x":-1503,"y":3803,"width":250,"height":60,"type":"text","text":"Reactive"},
 		{"id":"5181678fc670eff6","x":-1510,"y":3972,"width":250,"height":60,"type":"text","text":"Proxy"}
 	],
