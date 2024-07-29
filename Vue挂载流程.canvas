@@ -97,11 +97,11 @@
 		{"id":"61204d6a94e0fd23","type":"text","text":"triggerEffect","x":325,"y":-1807,"width":250,"height":57},
 		{"id":"ae6dd4bf1db36ba1","type":"text","text":"createDep","x":38,"y":-1810,"width":250,"height":60},
 		{"id":"c0bf7fb91265a0b6","x":-1467,"y":3361,"width":250,"height":60,"type":"text","text":"ref"},
-		{"id":"0199c96966223616","x":-1501,"y":3522,"width":284,"height":264,"type":"text","text":"RefImpl\nref带value就是在这一层实现的\n\n\n\n对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现"},
-		{"id":"5181678fc670eff6","x":-1517,"y":4117,"width":316,"height":50,"type":"text","text":"createReactiveObject"},
 		{"id":"62a028c8baa3ec7a","x":-1494,"y":4294,"width":250,"height":60,"type":"text","text":"proxy"},
 		{"id":"3913d9d62d6dfee9","x":-1740,"y":3893,"width":250,"height":130,"type":"text","text":"基本值通过value属性的getter、setter实现响应"},
-		{"id":"c21e12344489332b","x":-1369,"y":3893,"width":250,"height":60,"type":"text","text":"Reactive"}
+		{"id":"c21e12344489332b","x":-1381,"y":3893,"width":274,"height":153,"type":"text","text":"Reactive\n\n对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现"},
+		{"id":"5181678fc670eff6","x":-1490,"y":4167,"width":316,"height":50,"type":"text","text":"createReactiveObject"},
+		{"id":"0199c96966223616","x":-1544,"y":3523,"width":327,"height":114,"type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
