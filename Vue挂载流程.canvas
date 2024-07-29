@@ -95,15 +95,16 @@
 		{"id":"0bc636a731d452d4","type":"text","text":"trackEffect","x":-220,"y":-1810,"width":250,"height":60},
 		{"id":"61204d6a94e0fd23","type":"text","text":"triggerEffect","x":325,"y":-1807,"width":250,"height":57},
 		{"id":"ae6dd4bf1db36ba1","type":"text","text":"createDep","x":38,"y":-1810,"width":250,"height":60},
-		{"id":"62a028c8baa3ec7a","x":-1494,"y":4294,"width":250,"height":60,"type":"text","text":"proxy"},
 		{"id":"3913d9d62d6dfee9","x":-1740,"y":3893,"width":250,"height":130,"type":"text","text":"基本值通过value属性的getter、setter实现响应"},
-		{"id":"c21e12344489332b","x":-1381,"y":3893,"width":274,"height":153,"type":"text","text":"Reactive\n\n对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现"},
-		{"id":"5181678fc670eff6","x":-1490,"y":4167,"width":316,"height":50,"type":"text","text":"createReactiveObject"},
+		{"id":"c21e12344489332b","x":-1381,"y":3893,"width":272,"height":204,"type":"text","text":"Reactive\n\n对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现"},
 		{"id":"0199c96966223616","x":-1544,"y":3523,"width":327,"height":114,"type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n"},
-		{"id":"25a314552a55cdc1","x":-1698,"y":4515,"width":265,"height":209,"type":"text","text":"常见对象\n+ Object\n+ Array"},
-		{"id":"7fdb0dc00672c1b5","x":-1357,"y":4515,"width":285,"height":209,"type":"text","text":"集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet"},
-		{"id":"9903190c87bb8017","type":"text","text":"ReactiveEffect","x":-811,"y":3361,"width":250,"height":60},
-		{"id":"c0bf7fb91265a0b6","x":-1449,"y":3331,"width":250,"height":60,"type":"text","text":"ref"}
+		{"id":"c0bf7fb91265a0b6","x":-1449,"y":3331,"width":250,"height":60,"type":"text","text":"ref"},
+		{"id":"62a028c8baa3ec7a","x":-1068,"y":3893,"width":250,"height":60,"type":"text","text":"proxy"},
+		{"id":"7fdb0dc00672c1b5","x":-931,"y":4114,"width":285,"height":209,"type":"text","text":"集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet"},
+		{"id":"25a314552a55cdc1","x":-1272,"y":4114,"width":265,"height":209,"type":"text","text":"常见对象\n+ Object\n+ Array"},
+		{"id":"5181678fc670eff6","x":-1025,"y":3781,"width":316,"height":50,"type":"text","text":"createReactiveObject"},
+		{"id":"9903190c87bb8017","type":"text","text":"ReactiveEffect","x":-652,"y":3331,"width":250,"height":60},
+		{"id":"aa9a77c55bf896df","x":-1043,"y":3331,"width":250,"height":60,"type":"text","text":"Reactive"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -210,10 +211,11 @@
 		{"id":"06cb0b999dea0b73","fromNode":"e5e446368854045f","fromSide":"bottom","toNode":"c0bf7fb91265a0b6","toSide":"top"},
 		{"id":"0fd6bbfa5e90e898","fromNode":"c0bf7fb91265a0b6","fromSide":"bottom","toNode":"0199c96966223616","toSide":"top"},
 		{"id":"8aaaca2c8af2eea6","fromNode":"0199c96966223616","fromSide":"bottom","toNode":"c21e12344489332b","toSide":"top","label":"对象"},
-		{"id":"d3de442932a14527","fromNode":"c21e12344489332b","fromSide":"bottom","toNode":"5181678fc670eff6","toSide":"top"},
 		{"id":"5f734299f5ee4037","fromNode":"5181678fc670eff6","fromSide":"bottom","toNode":"62a028c8baa3ec7a","toSide":"top"},
 		{"id":"6fd6337f158ae8c6","fromNode":"0199c96966223616","fromSide":"bottom","toNode":"3913d9d62d6dfee9","toSide":"top","label":"基本值"},
 		{"id":"0558cac1882f70d7","fromNode":"62a028c8baa3ec7a","fromSide":"bottom","toNode":"25a314552a55cdc1","toSide":"top"},
-		{"id":"87a181cd02d11b2d","fromNode":"62a028c8baa3ec7a","fromSide":"bottom","toNode":"7fdb0dc00672c1b5","toSide":"top"}
+		{"id":"87a181cd02d11b2d","fromNode":"62a028c8baa3ec7a","fromSide":"bottom","toNode":"7fdb0dc00672c1b5","toSide":"top"},
+		{"id":"b9f4148a516f0dac","fromNode":"e5e446368854045f","fromSide":"bottom","toNode":"aa9a77c55bf896df","toSide":"top"},
+		{"id":"89ccf7f5a79db6a3","fromNode":"aa9a77c55bf896df","fromSide":"bottom","toNode":"5181678fc670eff6","toSide":"top"}
 	]
 }
