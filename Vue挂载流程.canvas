@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"9c7ac7ba449ce03e","x":-1157,"y":3845,"width":250,"height":60,"type":"text","text":""},
 		{"id":"2de59a04fe28f997","type":"text","text":"renderer = createRenderer(renderOptions)\n创建renderer渲染器 ","x":-297,"y":-158,"width":538,"height":87},
 		{"id":"d083d38eb0ef9788","type":"text","text":"import { createApp } from vue\n引入vue库，在全局创建了一系列相关的对象","x":-405,"y":-338,"width":443,"height":129},
 		{"id":"30461df90c4e5044","type":"text","text":"app = renderer.createApp({})\n创建app应用实例\n传递参数是根实例","x":-91,"y":-12,"width":420,"height":105},
@@ -97,9 +98,9 @@
 		{"id":"61204d6a94e0fd23","type":"text","text":"triggerEffect","x":325,"y":-1807,"width":250,"height":57},
 		{"id":"ae6dd4bf1db36ba1","type":"text","text":"createDep","x":38,"y":-1810,"width":250,"height":60},
 		{"id":"c0bf7fb91265a0b6","x":-1467,"y":3361,"width":250,"height":60,"type":"text","text":"ref"},
-		{"id":"0199c96966223616","x":-1501,"y":3561,"width":248,"height":138,"type":"text","text":"RefImpl\nref带value就是在这一层实现的\n\n基本值通过value属性的getter、setter实现响应\n\n对象，value返回的是reactive后的"},
-		{"id":"c21e12344489332b","x":-1503,"y":3803,"width":250,"height":60,"type":"text","text":"Reactive"},
-		{"id":"5181678fc670eff6","x":-1510,"y":3972,"width":250,"height":60,"type":"text","text":"Proxy"}
+		{"id":"5181678fc670eff6","x":-1501,"y":4119,"width":250,"height":50,"type":"text","text":"Proxy"},
+		{"id":"0199c96966223616","x":-1501,"y":3522,"width":284,"height":264,"type":"text","text":"RefImpl\nref带value就是在这一层实现的\n\n基本值通过value属性的getter、setter实现响应\n\n对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现"},
+		{"id":"c21e12344489332b","x":-1467,"y":3908,"width":250,"height":60,"type":"text","text":"Reactive"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
