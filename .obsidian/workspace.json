@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02响应式系统/响应式系统.md",
+                "file": "07相关技术点/Proxy & Reflect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02响应式系统/响应式系统.md",
+                "file": "07相关技术点/Proxy & Reflect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02响应式系统/响应式系统.md"
+                "file": "07相关技术点/Proxy & Reflect.md"
               }
             }
           }
@@ -176,10 +175,10 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1c206c6b0d686709",
+  "active": "8782e04e8794ad6d",
   "lastOpenFiles": [
-    "02响应式系统/未命名.md",
     "02响应式系统/响应式系统.md",
+    "02响应式系统/未命名.md",
     "02响应式系统/0mgs",
     "02响应式系统/响应式数据延伸.md",
     "02响应式系统/非原始值响应方案.md",
