@@ -1,8 +1,8 @@
 {
   "blue-topaz-theme@@background-notebook-liked-switch": true,
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-monokai",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-autumn-topaz",
-  "blue-topaz-theme@@accent-strong@@dark": "#D20D0D",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@accent-strong@@dark": "#52B948",
   "blue-topaz-theme@@colorful-ordered-list": true,
   "blue-topaz-theme@@colorful-unordered-list": true,
   "Blue-Topaz-Codebox-Highlight@@text-color-code@@dark": "#0AC33D"
