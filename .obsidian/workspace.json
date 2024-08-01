@@ -8,26 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8782e04e8794ad6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02响应式系统/响应式系统.md",
-                "mode": "source",
-                "source": false
+                "file": "Vue挂载流程.canvas",
+                "viewState": {
+                  "x": -996.327921798794,
+                  "y": 3704.7001942802062,
+                  "zoom": -0.142728436522037
+                }
               }
             }
           }
@@ -112,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
+                "file": "Vue挂载流程.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
+                "file": "Vue挂载流程.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md"
+                "file": "Vue挂载流程.canvas"
               }
             }
           }
@@ -175,18 +166,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "8782e04e8794ad6d",
+  "active": "4e7ddd16e7a18975",
   "lastOpenFiles": [
+    "vue3设计与实现.canvas",
     "02响应式系统/响应式系统.md",
+    "07相关技术点/Proxy & Reflect.md",
     "02响应式系统/未命名.md",
     "02响应式系统/0mgs",
     "02响应式系统/响应式数据延伸.md",
     "02响应式系统/非原始值响应方案.md",
     "02响应式系统/原始值响应方案.md",
     "Vue挂载流程.canvas",
-    "vue3设计与实现.canvas",
     "vue3技术点.canvas",
-    "07相关技术点/Proxy & Reflect.md",
     "07相关技术点/0mgs",
     "0mgs/render-pipeline.png",
     "Virtual DOM.md",
