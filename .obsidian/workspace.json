@@ -23,14 +23,11 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vue挂载流程.canvas",
-                "viewState": {
-                  "x": -1093.5577908270436,
-                  "y": 3735.1626045718144,
-                  "zoom": -0.04759990892819585
-                }
+                "file": "02响应式系统/未命名.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue挂载流程.canvas",
+                "file": "02响应式系统/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue挂载流程.canvas",
+                "file": "02响应式系统/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue挂载流程.canvas"
+                "file": "02响应式系统/未命名.md"
               }
             }
           }
@@ -181,8 +178,13 @@
   },
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
-    "vue3设计与实现.canvas",
+    "02响应式系统/响应式数据延伸.md",
+    "02响应式系统/未命名.md",
+    "02响应式系统/非原始值响应方案.md",
+    "02响应式系统/响应式系统.md",
+    "02响应式系统/原始值响应方案.md",
     "Vue挂载流程.canvas",
+    "vue3设计与实现.canvas",
     "vue3技术点.canvas",
     "07相关技术点/Proxy & Reflect.md",
     "07相关技术点/0mgs",
@@ -208,11 +210,7 @@
     "01框架概览",
     "04组件化",
     "03渲染器/渲染函数.md",
-    "02响应式系统/非原始值响应方案.md",
     "03渲染器/dom diff.md",
-    "02响应式系统/原始值响应方案.md",
-    "02响应式系统/响应式数据延伸.md",
-    "02响应式系统/响应式系统.md",
     "02响应式系统",
     "03渲染器",
     "05编译器/编译器.md",
