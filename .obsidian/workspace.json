@@ -11,11 +11,14 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02响应式系统/响应式系统.md",
-                "mode": "source",
-                "source": false
+                "file": "Vue挂载流程.canvas",
+                "viewState": {
+                  "x": -65.5,
+                  "y": 1128.5,
+                  "zoom": -2.855851341617455
+                }
               }
             }
           },
@@ -178,10 +181,10 @@
   },
   "active": "0edc860725654431",
   "lastOpenFiles": [
-    "02响应式系统/响应式数据延伸.md",
     "Vue挂载流程.canvas",
     "vue3设计与实现.canvas",
     "02响应式系统/响应式系统.md",
+    "02响应式系统/响应式数据延伸.md",
     "07相关技术点/Proxy & Reflect.md",
     "02响应式系统/未命名.md",
     "02响应式系统/0mgs",
