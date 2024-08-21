@@ -28,11 +28,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "vue3设计与实现.canvas",
+                "file": "Vue挂载流程.canvas",
                 "viewState": {
-                  "x": -106,
-                  "y": 1217,
-                  "zoom": -1.5841006113424405
+                  "x": -341.86541691265677,
+                  "y": -6410.58070508125,
+                  "zoom": -1.646385790141772
                 }
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue3设计与实现.canvas",
+                "file": "Vue挂载流程.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue3设计与实现.canvas",
+                "file": "Vue挂载流程.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue3设计与实现.canvas"
+                "file": "Vue挂载流程.canvas"
               }
             }
           }
@@ -182,18 +182,18 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0edc860725654431",
+  "active": "4e7ddd16e7a18975",
   "lastOpenFiles": [
+    "vue3技术点.canvas",
+    "vue3设计与实现.canvas",
     "02响应式系统/响应式系统.md",
     "Vue挂载流程.canvas",
-    "vue3设计与实现.canvas",
     "02响应式系统/响应式数据延伸.md",
     "07相关技术点/Proxy & Reflect.md",
     "02响应式系统/未命名.md",
     "02响应式系统/0mgs",
     "02响应式系统/非原始值响应方案.md",
     "02响应式系统/原始值响应方案.md",
-    "vue3技术点.canvas",
     "07相关技术点/0mgs",
     "0mgs/render-pipeline.png",
     "Virtual DOM.md",
