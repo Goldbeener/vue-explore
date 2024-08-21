@@ -30,9 +30,9 @@
               "state": {
                 "file": "Vue挂载流程.canvas",
                 "viewState": {
-                  "x": -341.86541691265677,
-                  "y": -6410.58070508125,
-                  "zoom": -1.646385790141772
+                  "x": -1655.2431066562308,
+                  "y": -1501.1278688977384,
+                  "zoom": 0.265541685055872
                 }
               }
             }
@@ -182,12 +182,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4e7ddd16e7a18975",
+  "active": "0edc860725654431",
   "lastOpenFiles": [
-    "vue3技术点.canvas",
     "vue3设计与实现.canvas",
-    "02响应式系统/响应式系统.md",
     "Vue挂载流程.canvas",
+    "vue3技术点.canvas",
+    "02响应式系统/响应式系统.md",
     "02响应式系统/响应式数据延伸.md",
     "07相关技术点/Proxy & Reflect.md",
     "02响应式系统/未命名.md",
