@@ -28,11 +28,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vue挂载流程.canvas",
+                "file": "vue3技术点.canvas",
                 "viewState": {
-                  "x": -65.5,
-                  "y": 1128.5,
-                  "zoom": -2.855851341617455
+                  "x": -200.04464053751397,
+                  "y": -112.5667905935049,
+                  "zoom": -0.052663581695108166
                 }
               }
             }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue挂载流程.canvas",
+                "file": "vue3技术点.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vue挂载流程.canvas",
+                "file": "vue3技术点.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue挂载流程.canvas"
+                "file": "vue3技术点.canvas"
               }
             }
           }
