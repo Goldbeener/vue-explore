@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "状态与Hook函数.md",
+                "file": "02响应式系统/响应式系统.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "状态",
+                "query": "reflect",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "状态与Hook函数.md",
+                "file": "02响应式系统/响应式系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "状态与Hook函数.md",
+                "file": "02响应式系统/响应式系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "状态与Hook函数.md"
+                "file": "02响应式系统/响应式系统.md"
               }
             }
           }
@@ -182,6 +182,7 @@
   },
   "active": "0edc860725654431",
   "lastOpenFiles": [
+    "状态与Hook函数.md",
     "01框架概览/视图框架思想.md",
     "逻辑复用.md",
     "04组件化/函数式组件.md",
@@ -207,7 +208,6 @@
     "06服务端渲染/同构渲染.md",
     "06服务端渲染",
     "Vue3.md",
-    "状态与Hook函数.md",
     "依赖注入 Provide-Inject.md",
     "03渲染器/跨平台.md",
     "01框架概览/现代框架.md",
