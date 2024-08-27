@@ -43,3 +43,13 @@ receiver 是接受者的意思
 
 **在Reflect.get 场景下**
 receiver可以改变计算属性中this的指向
+```js
+Reflect.get(target, propertyKey[, receiver])
+
+// 如果`target`对象中指定了`getter`，`receiver`则为`getter`调用时的`this`值
+
+Reflect.set(target, propertyKey, value [, receiver])
+// 如果`target`对象中指定了`getter`，`receiver`则为`setter`调用时的`this`值
+```
+
+用于调整targetdgetter/setter函数内this的指向
