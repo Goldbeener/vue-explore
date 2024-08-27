@@ -26,14 +26,11 @@
             "id": "0edc860725654431",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "vue3技术点.canvas",
-                "viewState": {
-                  "x": -200.04464053751397,
-                  "y": -112.5667905935049,
-                  "zoom": -0.052663581695108166
-                }
+                "file": "01框架概览/视图框架思想.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "状态",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue3技术点.canvas",
+                "file": "01框架概览/视图框架思想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue3技术点.canvas",
+                "file": "01框架概览/视图框架思想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "vue3技术点.canvas"
+                "file": "01框架概览/视图框架思想.md"
               }
             }
           }
@@ -183,11 +180,15 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "31450d9dbf3cb199",
+  "active": "0edc860725654431",
   "lastOpenFiles": [
+    "逻辑复用.md",
+    "04组件化/函数式组件.md",
+    "01框架概览/编程范式.md",
+    "01框架概览/视图框架思想.md",
+    "vue3技术点.canvas",
     "vue3设计与实现.canvas",
     "Vue挂载流程.canvas",
-    "vue3技术点.canvas",
     "02响应式系统/响应式系统.md",
     "02响应式系统/响应式数据延伸.md",
     "07相关技术点/Proxy & Reflect.md",
@@ -208,12 +209,8 @@
     "Vue3.md",
     "状态与Hook函数.md",
     "依赖注入 Provide-Inject.md",
-    "逻辑复用.md",
     "03渲染器/跨平台.md",
     "01框架概览/现代框架.md",
-    "01框架概览/视图框架思想.md",
-    "01框架概览/编程范式.md",
-    "04组件化/函数式组件.md",
     "04组件化/组件化.md",
     "01框架概览",
     "04组件化",
