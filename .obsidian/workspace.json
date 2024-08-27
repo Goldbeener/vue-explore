@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01框架概览/视图框架思想.md",
+                "file": "状态与Hook函数.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01框架概览/视图框架思想.md",
+                "file": "状态与Hook函数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01框架概览/视图框架思想.md",
+                "file": "状态与Hook函数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01框架概览/视图框架思想.md"
+                "file": "状态与Hook函数.md"
               }
             }
           }
@@ -182,10 +182,10 @@
   },
   "active": "0edc860725654431",
   "lastOpenFiles": [
+    "01框架概览/视图框架思想.md",
     "逻辑复用.md",
     "04组件化/函数式组件.md",
     "01框架概览/编程范式.md",
-    "01框架概览/视图框架思想.md",
     "vue3技术点.canvas",
     "vue3设计与实现.canvas",
     "Vue挂载流程.canvas",
