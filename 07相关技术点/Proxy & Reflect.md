@@ -52,4 +52,4 @@ Reflect.set(target, propertyKey, value [, receiver])
 // 如果`target`对象中指定了`getter`，`receiver`则为`setter`调用时的`this`值
 ```
 
-用于调整targetdgetter/setter函数内this的指向
+用于调整target对象getter/setter函数内this的指向
