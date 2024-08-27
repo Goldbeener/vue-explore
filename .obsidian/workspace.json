@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02响应式系统/响应式系统.md",
+                "file": "07相关技术点/Proxy & Reflect.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reflect",
+                "query": "proxy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 314.5
   },
   "right": {
     "id": "dc72dd5e24e45f81",
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02响应式系统/响应式系统.md",
+                "file": "07相关技术点/Proxy & Reflect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02响应式系统/响应式系统.md",
+                "file": "07相关技术点/Proxy & Reflect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02响应式系统/响应式系统.md"
+                "file": "07相关技术点/Proxy & Reflect.md"
               }
             }
           }
@@ -182,15 +182,15 @@
   },
   "active": "0edc860725654431",
   "lastOpenFiles": [
-    "状态与Hook函数.md",
     "01框架概览/视图框架思想.md",
+    "02响应式系统/响应式系统.md",
+    "状态与Hook函数.md",
     "逻辑复用.md",
     "04组件化/函数式组件.md",
     "01框架概览/编程范式.md",
     "vue3技术点.canvas",
     "vue3设计与实现.canvas",
     "Vue挂载流程.canvas",
-    "02响应式系统/响应式系统.md",
     "02响应式系统/响应式数据延伸.md",
     "07相关技术点/Proxy & Reflect.md",
     "02响应式系统/未命名.md",
