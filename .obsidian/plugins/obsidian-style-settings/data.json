@@ -9,5 +9,6 @@
   "floating-toc-styles@@floating-toc-line-width": 16,
   "floating-toc-styles@@floating-toc-font-size": 1,
   "floating-toc-styles@@enable-heading-nowrap": true,
-  "floating-toc-styles@@floating-toc-font-color@@dark": "#00FFFF"
+  "floating-toc-styles@@floating-toc-font-color@@dark": "#00FFFF",
+  "floating-toc-styles@@enable-outline-style": "float-outline-style"
 }
