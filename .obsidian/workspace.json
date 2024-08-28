@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxy",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -182,8 +181,11 @@
   },
   "active": "0edc860725654431",
   "lastOpenFiles": [
-    "02响应式系统/响应式系统.md",
+    "02响应式系统/响应式数据延伸.md",
+    "02响应式系统/非原始值响应方案.md",
     "07相关技术点/Proxy & Reflect.md",
+    "Vue挂载流程.canvas",
+    "02响应式系统/响应式系统.md",
     "01框架概览/视图框架思想.md",
     "状态与Hook函数.md",
     "逻辑复用.md",
@@ -191,11 +193,8 @@
     "01框架概览/编程范式.md",
     "vue3技术点.canvas",
     "vue3设计与实现.canvas",
-    "Vue挂载流程.canvas",
-    "02响应式系统/响应式数据延伸.md",
     "02响应式系统/未命名.md",
     "02响应式系统/0mgs",
-    "02响应式系统/非原始值响应方案.md",
     "02响应式系统/原始值响应方案.md",
     "07相关技术点/0mgs",
     "0mgs/render-pipeline.png",

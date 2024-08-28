@@ -6,7 +6,7 @@
   "blue-topaz-theme@@colorful-ordered-list": true,
   "blue-topaz-theme@@colorful-unordered-list": true,
   "Blue-Topaz-Codebox-Highlight@@text-color-code@@dark": "#0AC33D",
-  "floating-toc-styles@@floating-toc-line-width": 18,
+  "floating-toc-styles@@floating-toc-line-width": 16,
   "floating-toc-styles@@floating-toc-font-size": 1,
   "floating-toc-styles@@enable-heading-nowrap": true
 }
