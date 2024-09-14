@@ -26,11 +26,14 @@
             "id": "0edc860725654431",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
-                "mode": "source",
-                "source": false
+                "file": "vue3设计与实现.canvas",
+                "viewState": {
+                  "x": -106,
+                  "y": 1217,
+                  "zoom": -1.5841006113424405
+                }
               }
             }
           }
@@ -116,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
+                "file": "vue3设计与实现.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md",
+                "file": "vue3设计与实现.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07相关技术点/Proxy & Reflect.md"
+                "file": "vue3设计与实现.canvas"
               }
             }
           }
@@ -181,9 +184,9 @@
   },
   "active": "0edc860725654431",
   "lastOpenFiles": [
+    "07相关技术点/Proxy & Reflect.md",
     "02响应式系统/响应式数据延伸.md",
     "02响应式系统/非原始值响应方案.md",
-    "07相关技术点/Proxy & Reflect.md",
     "Vue挂载流程.canvas",
     "02响应式系统/响应式系统.md",
     "01框架概览/视图框架思想.md",
