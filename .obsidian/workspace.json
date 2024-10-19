@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02响应式系统/响应式设计.md",
+                "file": "Vue挂载流程.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02响应式系统/响应式设计.md",
+                "file": "Vue挂载流程.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02响应式系统/响应式设计.md"
+                "file": "Vue挂载流程.canvas"
               }
             }
           }
