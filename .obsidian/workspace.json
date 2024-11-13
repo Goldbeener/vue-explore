@@ -42,12 +42,14 @@
             "id": "e78b60a5645daafd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "依赖注入 Provide-Inject.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "依赖注入 Provide-Inject"
             }
           }
         ],
