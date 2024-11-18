@@ -69,7 +69,7 @@ function createComponentInstance() {
 	// 每个组件实例在创建的时候，会有一个provides属性
 	// 根组件的这个属性值是以全局appContext.provides为原型的新对象
 	// 非根组件，这个属性值直接指向父组件的provides属性
-	// 子指父 父指根 根值app
+	// 子指父 父指根 根指app
 
 	// 这样其实所有组件实例的provides都指向一个对象 达到共享数据的目的
 }
