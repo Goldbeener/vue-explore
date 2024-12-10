@@ -98,7 +98,7 @@
 		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n","x":-1544,"y":3523,"width":327,"height":114},
 		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-1449,"y":3331,"width":250,"height":60},
 		{"id":"9903190c87bb8017","type":"text","text":"ReactiveEffect","x":-652,"y":3331,"width":250,"height":60},
-		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly","x":-1043,"y":3331,"width":290,"height":289},
+		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-1043,"y":3331,"width":290,"height":289},
 		{"id":"e5bba362524c39eb","type":"text","text":"queueJob\nrenderFn调度执行，在一定周期内多次状态变更，只会重新渲染一次","x":-255,"y":2956,"width":270,"height":166},
 		{"id":"3a2f94684f216be5","type":"text","text":"微任务执行 事件循环","x":-235,"y":3271,"width":250,"height":60},
 		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-949,"y":3759,"width":316,"height":50},
