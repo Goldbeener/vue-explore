@@ -11,14 +11,17 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02响应式系统/1.响应式系统.md",
-                "mode": "source",
-                "source": false
+                "file": "Vue挂载流程.canvas",
+                "viewState": {
+                  "x": -997.8181455419962,
+                  "y": 3349.276580037313,
+                  "zoom": -0.11271295312349061
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.响应式系统"
+              "icon": "lucide-layout-dashboard",
+              "title": "Vue挂载流程"
             }
           }
         ]
@@ -181,17 +184,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1c206c6b0d686709",
+  "active": "4e7ddd16e7a18975",
   "lastOpenFiles": [
+    "vue3设计与实现.canvas",
+    "vue3技术点.canvas",
+    "02响应式系统/1.响应式系统.md",
     "Vue挂载流程.canvas",
     "02响应式系统/5.响应式数据延伸.md",
     "02响应式系统/4.原始值响应方案.md",
     "02响应式系统/3.非原始值响应方案.md",
     "02响应式系统/2.响应式设计.md",
-    "02响应式系统/1.响应式系统.md",
     "01框架概览/0mgs",
-    "vue3技术点.canvas",
-    "vue3设计与实现.canvas",
     "依赖注入 Provide-Inject.md",
     "07相关技术点/Proxy & Reflect.md",
     "01框架概览/视图框架思想.md",
