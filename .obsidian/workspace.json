@@ -15,8 +15,8 @@
               "state": {
                 "file": "Vue挂载流程.canvas",
                 "viewState": {
-                  "x": -732.3472864705944,
-                  "y": 2842.4685763555462,
+                  "x": -710.2247148813116,
+                  "y": 3369.3880087548446,
                   "zoom": -0.11271295312349061
                 }
               },
@@ -184,7 +184,7 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4e7ddd16e7a18975",
+  "active": "1c206c6b0d686709",
   "lastOpenFiles": [
     "vue3设计与实现.canvas",
     "vue3技术点.canvas",

@@ -60,8 +60,6 @@
 		{"id":"e33cf1e8bacd351a","type":"text","text":"updated生命周期钩子函数调用，instance实例上属性更新","x":-2084,"y":3280,"width":302,"height":120},
 		{"id":"e5e446368854045f","type":"text","text":"响应式系统","x":-918,"y":2967,"width":232,"height":86,"color":"1"},
 		{"id":"71e0cab78cc2bdb1","type":"text","text":"componentUpdateFn 渲染函数包装","x":-1059,"y":2586,"width":295,"height":93},
-		{"id":"e5bba362524c39eb","type":"text","text":"queueJob\nrenderFn调度执行，在一定周期内多次状态变更，只会重新渲染一次","x":-401,"y":2967,"width":270,"height":166},
-		{"id":"3a2f94684f216be5","type":"text","text":"微任务执行 事件循环","x":-402,"y":3256,"width":250,"height":60},
 		{"id":"62d6822726269cee","type":"text","text":"Vnode\n+ type\n+ shapeFlag\n+ props 上层传递给的数据\n\t+ props 这一部分数据会导致组件被动更新\n\t+ attrs\n\t+ eventsHandlers\n+ component 组件实例","x":-1651,"y":93,"width":359,"height":409},
 		{"id":"722cb9e7ab5fbefa","type":"text","text":"组件对象 \n+ props\n+ setup","x":-2222,"y":261,"width":250,"height":174},
 		{"id":"f85506fa86db4b9d","type":"text","text":"ComponentInstance\n+ vnode\n+ type\n+ data\n+ props\n+ slots\n+ attrs\n+ provides\n+ 生命周期钩子\n+ subTree 子树 再次执行渲染函数的到的新的vnode，用来作diff渲染用的","x":-1001,"y":198,"width":378,"height":469},
@@ -104,7 +102,9 @@
 		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-779,"y":3525,"width":316,"height":50},
 		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy","x":-761,"y":3664,"width":250,"height":60},
 		{"id":"7fdb0dc00672c1b5","type":"text","text":"集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-562,"y":3858,"width":285,"height":209},
-		{"id":"25a314552a55cdc1","type":"text","text":"常见对象\n+ Object\n+ Array","x":-886,"y":3858,"width":265,"height":209}
+		{"id":"25a314552a55cdc1","type":"text","text":"常见对象\n+ Object\n+ Array","x":-886,"y":3858,"width":265,"height":209},
+		{"id":"e5bba362524c39eb","type":"text","text":"queueJob\nrenderFn调度执行，在一定周期内多次状态变更，只会重新渲染一次","x":-255,"y":2956,"width":270,"height":166},
+		{"id":"3a2f94684f216be5","type":"text","text":"微任务执行 事件循环","x":-235,"y":3271,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
