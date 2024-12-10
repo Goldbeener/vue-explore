@@ -44,12 +44,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02响应式系统/响应式设计.md",
+                "file": "02响应式系统/响应式系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "响应式设计"
+              "title": "响应式系统"
             }
           }
         ],
@@ -213,17 +213,17 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "e78b60a5645daafd",
+  "active": "4e7ddd16e7a18975",
   "lastOpenFiles": [
+    "02响应式系统/原始值响应方案.md",
+    "02响应式系统/响应式系统.md",
+    "02响应式系统/响应式数据延伸.md",
+    "02响应式系统/响应式设计.md",
     "02响应式系统/非原始值响应方案.md",
     "Vue挂载流程.canvas",
     "vue3技术点.canvas",
     "vue3设计与实现.canvas",
     "依赖注入 Provide-Inject.md",
-    "02响应式系统/响应式系统.md",
-    "02响应式系统/原始值响应方案.md",
-    "02响应式系统/响应式设计.md",
-    "02响应式系统/响应式数据延伸.md",
     "07相关技术点/Proxy & Reflect.md",
     "01框架概览/视图框架思想.md",
     "状态与Hook函数.md",
