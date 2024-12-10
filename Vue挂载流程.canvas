@@ -112,7 +112,8 @@
 		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-827,"y":3340,"width":290,"height":289},
 		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-1387,"y":3340,"width":250,"height":60},
 		{"id":"9084dc6872defa91","x":-1664,"y":5549,"width":250,"height":175,"type":"text","text":"dep\n依赖收集"},
-		{"id":"1432881402325272","x":-1068,"y":6036,"width":250,"height":60,"type":"text","text":"effectScope"}
+		{"id":"1432881402325272","x":-1068,"y":6036,"width":250,"height":60,"type":"text","text":"effectScope"},
+		{"id":"8f6d73bfb9121cd5","x":-498,"y":3367,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -236,6 +237,7 @@
 		{"id":"2fb22ec068c5564b","fromNode":"82bdbb3dd8845a35","fromSide":"bottom","toNode":"9ee50fbc3994b058","toSide":"top"},
 		{"id":"ae2aa0348dcfd971","fromNode":"9084dc6872defa91","fromSide":"right","toNode":"9ee50fbc3994b058","toSide":"left"},
 		{"id":"4e8c864bccdccb66","fromNode":"458ec93697121144","fromSide":"bottom","toNode":"9ee50fbc3994b058","toSide":"right"},
-		{"id":"52d3252e5f40bb58","fromNode":"9ee50fbc3994b058","fromSide":"bottom","toNode":"1432881402325272","toSide":"top"}
+		{"id":"52d3252e5f40bb58","fromNode":"9ee50fbc3994b058","fromSide":"bottom","toNode":"1432881402325272","toSide":"top"},
+		{"id":"3f280cf8e3ea91ad","fromNode":"e5e446368854045f","fromSide":"bottom","toNode":"8f6d73bfb9121cd5","toSide":"top"}
 	]
 }
