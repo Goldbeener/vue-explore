@@ -105,7 +105,8 @@
 		{"id":"c21e12344489332b","type":"text","text":"对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现","x":-1574,"y":3962,"width":263,"height":174},
 		{"id":"25a314552a55cdc1","type":"text","text":"ProxyHandlers\n+ baseHandlers\n+ collectionHandlers","x":-969,"y":4316,"width":356,"height":167},
 		{"id":"2cebc5aa49f57d28","x":-769,"y":4661,"width":299,"height":60,"type":"text","text":"collectionHandlers"},
-		{"id":"fef967afb2f55631","x":-1156,"y":4661,"width":250,"height":60,"type":"text","text":"baseHandlers"}
+		{"id":"fef967afb2f55631","x":-1156,"y":4661,"width":250,"height":60,"type":"text","text":"baseHandlers"},
+		{"id":"2a534bc038edd6c7","x":-1252,"y":4889,"width":250,"height":60,"type":"text","text":"get"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -219,6 +220,7 @@
 		{"id":"89ccf7f5a79db6a3","fromNode":"aa9a77c55bf896df","fromSide":"bottom","toNode":"5181678fc670eff6","toSide":"top"},
 		{"id":"8d4f0f2768f90403","fromNode":"c21e12344489332b","fromSide":"right","toNode":"aa9a77c55bf896df","toSide":"left"},
 		{"id":"79e565f010d51705","fromNode":"25a314552a55cdc1","fromSide":"bottom","toNode":"fef967afb2f55631","toSide":"top"},
-		{"id":"85839ded8e353542","fromNode":"25a314552a55cdc1","fromSide":"bottom","toNode":"2cebc5aa49f57d28","toSide":"top"}
+		{"id":"85839ded8e353542","fromNode":"25a314552a55cdc1","fromSide":"bottom","toNode":"2cebc5aa49f57d28","toSide":"top"},
+		{"id":"d39511a40847d285","fromNode":"fef967afb2f55631","fromSide":"bottom","toNode":"2a534bc038edd6c7","toSide":"top"}
 	]
 }
