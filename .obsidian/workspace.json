@@ -44,15 +44,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "vue3技术点.canvas",
+                "file": "Vue挂载流程.canvas",
                 "viewState": {
-                  "x": -51.5,
-                  "y": -128,
-                  "zoom": -0.052663581695108166
+                  "x": -895.1690555537184,
+                  "y": 1196.285198875051,
+                  "zoom": -0.5510349604808791
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "vue3技术点"
+              "title": "Vue挂载流程"
             }
           }
         ],
@@ -216,8 +216,9 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4e7ddd16e7a18975",
+  "active": "e78b60a5645daafd",
   "lastOpenFiles": [
+    "vue3技术点.canvas",
     "vue3设计与实现.canvas",
     "依赖注入 Provide-Inject.md",
     "02响应式系统/响应式系统.md",
@@ -232,7 +233,6 @@
     "逻辑复用.md",
     "04组件化/函数式组件.md",
     "01框架概览/编程范式.md",
-    "vue3技术点.canvas",
     "02响应式系统/0mgs",
     "07相关技术点/0mgs",
     "0mgs/render-pipeline.png",
