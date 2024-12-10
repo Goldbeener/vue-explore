@@ -102,9 +102,9 @@
 		{"id":"e5bba362524c39eb","type":"text","text":"queueJob\nrenderFn调度执行，在一定周期内多次状态变更，只会重新渲染一次","x":-255,"y":2956,"width":270,"height":166},
 		{"id":"3a2f94684f216be5","type":"text","text":"微任务执行 事件循环","x":-235,"y":3271,"width":250,"height":60},
 		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-949,"y":3759,"width":316,"height":50},
-		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy","x":-878,"y":3928,"width":250,"height":60},
-		{"id":"25a314552a55cdc1","type":"text","text":"常见对象\n+ Object\n+ Array","x":-992,"y":4143,"width":265,"height":209},
-		{"id":"7fdb0dc00672c1b5","type":"text","text":"集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-665,"y":4143,"width":285,"height":209}
+		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy\n根据代理的数据愿不同，shi yong bu\n\n常见对象\n+ Object\n+ Array\n\n集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-878,"y":3928,"width":250,"height":273},
+		{"id":"25a314552a55cdc1","type":"text","text":"","x":-1081,"y":4372,"width":265,"height":209},
+		{"id":"7fdb0dc00672c1b5","type":"text","text":"","x":-665,"y":4395,"width":285,"height":209}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
