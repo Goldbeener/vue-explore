@@ -98,13 +98,13 @@
 		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n","x":-1544,"y":3523,"width":327,"height":114},
 		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-1449,"y":3331,"width":250,"height":60},
 		{"id":"9903190c87bb8017","type":"text","text":"ReactiveEffect","x":-652,"y":3331,"width":250,"height":60},
-		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive","x":-1043,"y":3331,"width":250,"height":60},
-		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-779,"y":3525,"width":316,"height":50},
-		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy","x":-761,"y":3664,"width":250,"height":60},
+		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive","x":-1043,"y":3331,"width":290,"height":219},
 		{"id":"7fdb0dc00672c1b5","type":"text","text":"集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-562,"y":3858,"width":285,"height":209},
 		{"id":"25a314552a55cdc1","type":"text","text":"常见对象\n+ Object\n+ Array","x":-886,"y":3858,"width":265,"height":209},
 		{"id":"e5bba362524c39eb","type":"text","text":"queueJob\nrenderFn调度执行，在一定周期内多次状态变更，只会重新渲染一次","x":-255,"y":2956,"width":270,"height":166},
-		{"id":"3a2f94684f216be5","type":"text","text":"微任务执行 事件循环","x":-235,"y":3271,"width":250,"height":60}
+		{"id":"3a2f94684f216be5","type":"text","text":"微任务执行 事件循环","x":-235,"y":3271,"width":250,"height":60},
+		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-937,"y":3614,"width":316,"height":50},
+		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy","x":-777,"y":3748,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
