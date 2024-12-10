@@ -108,10 +108,10 @@
 		{"id":"82bdbb3dd8845a35","x":-1331,"y":5282,"width":250,"height":60,"type":"text","text":"ReactiveEffect"},
 		{"id":"2a534bc038edd6c7","x":-1406,"y":4857,"width":250,"height":60,"type":"text","text":"getter"},
 		{"id":"e2f9415fccb58a78","x":-1433,"y":5053,"width":250,"height":60,"type":"text","text":"track"},
-		{"id":"9084dc6872defa91","x":-1531,"y":5506,"width":250,"height":175,"type":"text","text":"dep\n依赖收集"},
 		{"id":"9ee50fbc3994b058","x":-1157,"y":5505,"width":455,"height":263,"type":"text","text":"effect\n+ trackEffect\n+ triggerEffect\n+ schedule 副作用函数调度\n\t+ 延迟执行\n\t+ 多次"},
 		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-827,"y":3340,"width":290,"height":289},
-		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-1387,"y":3340,"width":250,"height":60}
+		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-1387,"y":3340,"width":250,"height":60},
+		{"id":"9084dc6872defa91","x":-1664,"y":5549,"width":250,"height":175,"type":"text","text":"dep\n依赖收集"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -232,6 +232,7 @@
 		{"id":"24e458de92eb844c","fromNode":"e2f9415fccb58a78","fromSide":"bottom","toNode":"82bdbb3dd8845a35","toSide":"top"},
 		{"id":"d37c492b9f7ce92d","fromNode":"906541cfb7437d4f","fromSide":"bottom","toNode":"82bdbb3dd8845a35","toSide":"top"},
 		{"id":"16dad7b647ce3e05","fromNode":"82bdbb3dd8845a35","fromSide":"bottom","toNode":"9084dc6872defa91","toSide":"top"},
-		{"id":"2fb22ec068c5564b","fromNode":"82bdbb3dd8845a35","fromSide":"bottom","toNode":"9ee50fbc3994b058","toSide":"top"}
+		{"id":"2fb22ec068c5564b","fromNode":"82bdbb3dd8845a35","fromSide":"bottom","toNode":"9ee50fbc3994b058","toSide":"top"},
+		{"id":"ae2aa0348dcfd971","fromNode":"9084dc6872defa91","fromSide":"right","toNode":"9ee50fbc3994b058","toSide":"left"}
 	]
 }
