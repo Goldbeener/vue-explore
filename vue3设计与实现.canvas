@@ -3,7 +3,7 @@
 		{"id":"f02e2f8b07762b6e","type":"text","text":"","x":455,"y":231,"width":250,"height":60},
 		{"id":"3ddc71785ecec5ee","type":"file","file":"01框架概览/视图框架思想.md","x":0,"y":0,"width":400,"height":272,"color":"5"},
 		{"id":"06e7a0c31ee55738","type":"file","file":"Vue3.md","x":0,"y":503,"width":400,"height":269,"color":"#f71d1d"},
-		{"id":"11397045599f843a","type":"file","file":"02响应式系统/响应式系统.md","x":-482,"y":1088,"width":338,"height":275},
+		{"id":"11397045599f843a","type":"file","file":"02响应式系统/1.响应式系统.md","x":-482,"y":1088,"width":338,"height":275},
 		{"id":"854110653164941f","type":"file","file":"04组件化/组件化.md","x":848,"y":1088,"width":384,"height":275},
 		{"id":"58afb51d6f4d3e3e","type":"file","file":"05编译器/编译器.md","x":400,"y":1088,"width":345,"height":275},
 		{"id":"c456ea17dd28a250","type":"file","file":"03渲染器/渲染器.md","x":-46,"y":1088,"width":323,"height":275},
