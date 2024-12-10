@@ -93,10 +93,6 @@
 		{"id":"0bc636a731d452d4","type":"text","text":"trackEffect","x":-220,"y":-1810,"width":250,"height":60},
 		{"id":"61204d6a94e0fd23","type":"text","text":"triggerEffect","x":325,"y":-1807,"width":250,"height":57},
 		{"id":"ae6dd4bf1db36ba1","type":"text","text":"createDep","x":38,"y":-1810,"width":250,"height":60},
-		{"id":"3913d9d62d6dfee9","type":"text","text":"基本值通过value属性的getter、setter实现响应","x":-1740,"y":3893,"width":250,"height":130},
-		{"id":"c21e12344489332b","type":"text","text":"对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现","x":-1381,"y":3893,"width":263,"height":174},
-		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n","x":-1544,"y":3523,"width":327,"height":114},
-		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-1449,"y":3331,"width":250,"height":60},
 		{"id":"9903190c87bb8017","type":"text","text":"ReactiveEffect","x":-652,"y":3331,"width":250,"height":60},
 		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-1043,"y":3331,"width":290,"height":289},
 		{"id":"e5bba362524c39eb","type":"text","text":"queueJob\nrenderFn调度执行，在一定周期内多次状态变更，只会重新渲染一次","x":-255,"y":2956,"width":270,"height":166},
@@ -104,7 +100,11 @@
 		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-949,"y":3759,"width":316,"height":50},
 		{"id":"25a314552a55cdc1","type":"text","text":"","x":-1081,"y":4372,"width":265,"height":209},
 		{"id":"7fdb0dc00672c1b5","type":"text","text":"","x":-665,"y":4395,"width":285,"height":209},
-		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy\n根据代理的数据源不同，使用不同的代理函数\n\n常见对象\n+ Object\n+ Array\n\n集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-969,"y":3931,"width":356,"height":273}
+		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy\n根据代理的数据源不同，使用不同的代理函数\n\n常见对象\n+ Object\n+ Array\n\n集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-969,"y":3931,"width":356,"height":273},
+		{"id":"3913d9d62d6dfee9","type":"text","text":"基本值通过value属性的getter、setter实现响应","x":-1933,"y":3962,"width":250,"height":130},
+		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n","x":-1737,"y":3592,"width":327,"height":114},
+		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-1642,"y":3400,"width":250,"height":60},
+		{"id":"c21e12344489332b","type":"text","text":"对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现","x":-1574,"y":3962,"width":263,"height":174}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
