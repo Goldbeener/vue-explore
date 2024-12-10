@@ -107,11 +107,11 @@
 		{"id":"2cebc5aa49f57d28","x":-769,"y":4661,"width":299,"height":60,"type":"text","text":"collectionHandlers"},
 		{"id":"fef967afb2f55631","x":-1156,"y":4661,"width":250,"height":60,"type":"text","text":"baseHandlers"},
 		{"id":"6966a6cdbd43889d","x":-1065,"y":4887,"width":250,"height":60,"type":"text","text":"setter"},
-		{"id":"e2f9415fccb58a78","x":-1406,"y":5046,"width":250,"height":60,"type":"text","text":"track"},
 		{"id":"906541cfb7437d4f","x":-1100,"y":5053,"width":250,"height":60,"type":"text","text":"trigger"},
 		{"id":"82bdbb3dd8845a35","x":-1331,"y":5282,"width":250,"height":60,"type":"text","text":"ReactiveEffect"},
 		{"id":"2a534bc038edd6c7","x":-1406,"y":4857,"width":250,"height":60,"type":"text","text":"getter"},
-		{"id":"9084dc6872defa91","x":-1333,"y":5470,"width":250,"height":60,"type":"text","text":""}
+		{"id":"9084dc6872defa91","x":-1333,"y":5470,"width":250,"height":60,"type":"text","text":"dep"},
+		{"id":"e2f9415fccb58a78","x":-1433,"y":5053,"width":250,"height":60,"type":"text","text":"track"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
