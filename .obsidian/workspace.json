@@ -11,17 +11,14 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vue挂载流程.canvas",
-                "viewState": {
-                  "x": -927.9452045377932,
-                  "y": 5003.427334806629,
-                  "zoom": -0.2839155671697328
-                }
+                "file": "02响应式系统/2.响应式设计.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Vue挂载流程"
+              "icon": "lucide-file",
+              "title": "2.响应式设计"
             }
           }
         ]
@@ -186,13 +183,13 @@
   },
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
-    "vue3设计与实现.canvas",
     "02响应式系统/1.响应式系统.md",
+    "Vue挂载流程.canvas",
+    "vue3设计与实现.canvas",
     "02响应式系统/2.响应式设计.md",
     "02响应式系统/3.非原始值响应方案.md",
     "02响应式系统/5.响应式数据延伸.md",
     "02响应式系统/4.原始值响应方案.md",
-    "Vue挂载流程.canvas",
     "vue3技术点.canvas",
     "01框架概览/0mgs",
     "依赖注入 Provide-Inject.md",
