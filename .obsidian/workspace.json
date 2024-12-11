@@ -15,9 +15,9 @@
               "state": {
                 "file": "Vue挂载流程.canvas",
                 "viewState": {
-                  "x": -921.3947164153817,
-                  "y": 4956.179734568,
-                  "zoom": -0.11271295312349061
+                  "x": -866.3720892019734,
+                  "y": 5638.716686297079,
+                  "zoom": -0.4254149847926168
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5,
-    "collapsed": true
+    "width": 314.5
   },
   "right": {
     "id": "dc72dd5e24e45f81",
@@ -188,9 +187,9 @@
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
     "vue3设计与实现.canvas",
-    "vue3技术点.canvas",
     "02响应式系统/1.响应式系统.md",
     "Vue挂载流程.canvas",
+    "vue3技术点.canvas",
     "02响应式系统/5.响应式数据延伸.md",
     "02响应式系统/4.原始值响应方案.md",
     "02响应式系统/3.非原始值响应方案.md",
