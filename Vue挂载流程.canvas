@@ -105,7 +105,7 @@
 		{"id":"1432881402325272","type":"text","text":"effectScope","x":-1884,"y":6590,"width":250,"height":60},
 		{"id":"25a314552a55cdc1","type":"text","text":"ProxyHandlers\n+ baseHandlers\n+ collectionHandlers","x":-1785,"y":4870,"width":356,"height":167},
 		{"id":"3913d9d62d6dfee9","type":"text","text":"基本值通过value属性的getter、setter实现响应","x":-2749,"y":4516,"width":250,"height":130},
-		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n","x":-2553,"y":4146,"width":327,"height":114},
+		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\n实例是一个仅有一个名为\n","x":-2553,"y":4146,"width":327,"height":114},
 		{"id":"c21e12344489332b","type":"text","text":"对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现","x":-2390,"y":4516,"width":263,"height":174},
 		{"id":"e5e446368854045f","type":"text","text":"响应式系统","x":-1249,"y":3297,"width":232,"height":86,"color":"1"},
 		{"id":"c6705674d1360623","type":"text","text":"非首次update","x":-1499,"y":2944,"width":250,"height":95},
