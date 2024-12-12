@@ -103,8 +103,6 @@
 		{"id":"9ee50fbc3994b058","type":"text","text":"effect(fn, conf)\n函数\n执行fn函数，并且追踪fn函数内使用到的响应式数据\n当数据变化时，重新执行fn\n就是建立fn与内部响应式数据的响应式关联\n\n\n+ trackEffect\n+ triggerEffect\n+ schedule 副作用函数调度\n\t+ 懒执行\n\t+ 调度执行","x":-1973,"y":6059,"width":455,"height":394},
 		{"id":"9084dc6872defa91","type":"text","text":"dep\n依赖收集","x":-2480,"y":6103,"width":250,"height":175},
 		{"id":"1432881402325272","type":"text","text":"effectScope","x":-1884,"y":6590,"width":250,"height":60},
-		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-1765,"y":4313,"width":316,"height":50},
-		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy\n根据代理的数据源不同，使用不同的代理配置\n\n常见对象\n+ Object\n+ Array\n\n集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-1785,"y":4485,"width":356,"height":273},
 		{"id":"25a314552a55cdc1","type":"text","text":"ProxyHandlers\n+ baseHandlers\n+ collectionHandlers","x":-1785,"y":4870,"width":356,"height":167},
 		{"id":"3913d9d62d6dfee9","type":"text","text":"基本值通过value属性的getter、setter实现响应","x":-2749,"y":4516,"width":250,"height":130},
 		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\nref带value就是在这一层实现的\n","x":-2553,"y":4146,"width":327,"height":114},
@@ -113,7 +111,9 @@
 		{"id":"c6705674d1360623","type":"text","text":"非首次update","x":-1499,"y":2944,"width":250,"height":95},
 		{"id":"8f6d73bfb9121cd5","type":"text","text":"computed","x":-1429,"y":3834,"width":250,"height":60},
 		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-2351,"y":3834,"width":250,"height":60},
-		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-1897,"y":3834,"width":290,"height":289}
+		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-1897,"y":3834,"width":290,"height":426},
+		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy\n根据代理的数据源不同，使用不同的代理配置\n\n常见对象\n+ Object\n+ Array\n\n集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-1844,"y":4516,"width":356,"height":273},
+		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-1844,"y":4371,"width":316,"height":50}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
