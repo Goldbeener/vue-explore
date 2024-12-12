@@ -11,14 +11,17 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02响应式系统/1.响应式系统.md",
-                "mode": "source",
-                "source": false
+                "file": "Vue挂载流程.canvas",
+                "viewState": {
+                  "x": -1499.7296911947608,
+                  "y": 3973.612641166252,
+                  "zoom": -0.8099283692676488
+                }
               },
-              "icon": "lucide-file",
-              "title": "1.响应式系统"
+              "icon": "lucide-layout-dashboard",
+              "title": "Vue挂载流程"
             }
           }
         ]
@@ -181,11 +184,11 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1c206c6b0d686709",
+  "active": "4e7ddd16e7a18975",
   "lastOpenFiles": [
+    "02响应式系统/1.响应式系统.md",
     "Vue挂载流程.canvas",
     "02响应式系统/2.响应式设计.md",
-    "02响应式系统/1.响应式系统.md",
     "vue3设计与实现.canvas",
     "02响应式系统/3.非原始值响应方案.md",
     "02响应式系统/5.响应式数据延伸.md",
