@@ -113,7 +113,7 @@
 		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy\n根据代理的数据源不同，使用不同的代理配置\n\n常见对象\n+ Object\n+ Array\n\n集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-1844,"y":4516,"width":356,"height":273},
 		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-1844,"y":4371,"width":316,"height":50},
 		{"id":"3913d9d62d6dfee9","type":"text","text":"基本值通过value属性的getter、setter实现响应","x":-2763,"y":4560,"width":250,"height":130},
-		{"id":"c21e12344489332b","type":"text","text":"对象，value返回的是reactive处理后的proxy对象，属性的响应式依靠proxy拦截实现","x":-2389,"y":4560,"width":263,"height":310}
+		{"id":"c21e12344489332b","type":"text","text":"引用类型，value返回的是reactive处理后的proxy对象，\n\n引用类型整体的变更（引用地址的变更）通过getter/setter实现响应式\n\n引用类型属性的响应式依靠proxy拦截实现","x":-2389,"y":4560,"width":263,"height":310}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
