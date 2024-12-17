@@ -113,14 +113,14 @@
 		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-1844,"y":4371,"width":316,"height":50},
 		{"id":"3913d9d62d6dfee9","type":"text","text":"基本值通过value属性的getter、setter实现响应","x":-2763,"y":4560,"width":250,"height":130},
 		{"id":"c21e12344489332b","type":"text","text":"引用类型，value返回的是reactive处理后的proxy对象。\n\n引用类型整体的变更（引用地址的变更）通过getter/setter实现响应式\n\n引用类型属性的响应式依靠proxy拦截实现","x":-2389,"y":4560,"width":263,"height":374},
-		{"id":"dd66d8c125cb253b","x":-3001,"y":5748,"width":250,"height":60,"type":"text","text":"watchAPI"},
-		{"id":"d51a239e1984db2e","x":-3342,"y":5997,"width":250,"height":60,"type":"text","text":"watch"},
-		{"id":"f2fd518177df8a46","x":-3008,"y":5985,"width":250,"height":60,"type":"text","text":"watchEffect"},
-		{"id":"2f102dc864fc810c","x":-3212,"y":6154,"width":250,"height":60,"type":"text","text":"watchPostEffect"},
-		{"id":"9ad5ffdcc46e4813","x":-2909,"y":6154,"width":250,"height":60,"type":"text","text":"watchSyncEffect"},
+		{"id":"dd66d8c125cb253b","type":"text","text":"watchAPI","x":-3001,"y":5748,"width":250,"height":60},
+		{"id":"d51a239e1984db2e","type":"text","text":"watch","x":-3342,"y":5997,"width":250,"height":60},
+		{"id":"f2fd518177df8a46","type":"text","text":"watchEffect","x":-3008,"y":5985,"width":250,"height":60},
+		{"id":"2f102dc864fc810c","type":"text","text":"watchPostEffect","x":-3212,"y":6154,"width":250,"height":60},
+		{"id":"9ad5ffdcc46e4813","type":"text","text":"watchSyncEffect","x":-2909,"y":6154,"width":250,"height":60},
 		{"id":"8f6d73bfb9121cd5","type":"text","text":"**computed**\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391},
-		{"id":"e7f02edb74064c54","x":-3896,"y":4934,"width":531,"height":342,"type":"text","text":""},
-		{"id":"b3226e0003ec5b36","x":-3865,"y":5075,"width":416,"height":132,"type":"text","text":"Dep  <Map>\n响应式数据的副作用函数存储桶"}
+		{"id":"b3226e0003ec5b36","type":"text","text":"Dep  <Map>\n\n响应式数据的副作用函数存储桶","x":-3243,"y":5135,"width":416,"height":132},
+		{"id":"e7f02edb74064c54","type":"text","text":"属性存储对象 <Map>","x":-3777,"y":5048,"width":373,"height":174}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
