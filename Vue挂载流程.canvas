@@ -119,7 +119,8 @@
 		{"id":"2f102dc864fc810c","x":-3212,"y":6154,"width":250,"height":60,"type":"text","text":"watchPostEffect"},
 		{"id":"9ad5ffdcc46e4813","x":-2909,"y":6154,"width":250,"height":60,"type":"text","text":"watchSyncEffect"},
 		{"id":"8f6d73bfb9121cd5","type":"text","text":"**computed**\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391},
-		{"id":"b3226e0003ec5b36","x":-3193,"y":5135,"width":366,"height":132,"type":"text","text":"Dep\nMap对象\n响应式数据的副作用函数存储桶"}
+		{"id":"e7f02edb74064c54","x":-3896,"y":4934,"width":531,"height":342,"type":"text","text":""},
+		{"id":"b3226e0003ec5b36","x":-3865,"y":5075,"width":416,"height":132,"type":"text","text":"Dep  <Map>\n响应式数据的副作用函数存储桶"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -251,6 +252,7 @@
 		{"id":"cb06fffe225cd4e1","fromNode":"f2fd518177df8a46","fromSide":"bottom","toNode":"2f102dc864fc810c","toSide":"top"},
 		{"id":"799bcd83ea801652","fromNode":"f2fd518177df8a46","fromSide":"bottom","toNode":"9ad5ffdcc46e4813","toSide":"top"},
 		{"id":"6fbfee3b3f2508ad","fromNode":"e2f9415fccb58a78","fromSide":"left","toNode":"b3226e0003ec5b36","toSide":"right"},
-		{"id":"d20045dda3a11a16","fromNode":"3913d9d62d6dfee9","fromSide":"bottom","toNode":"b3226e0003ec5b36","toSide":"right"}
+		{"id":"d20045dda3a11a16","fromNode":"3913d9d62d6dfee9","fromSide":"bottom","toNode":"b3226e0003ec5b36","toSide":"right"},
+		{"id":"10c2c0bc3d2ba211","fromNode":"b3226e0003ec5b36","fromSide":"left","toNode":"e7f02edb74064c54","toSide":"right"}
 	]
 }
