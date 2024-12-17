@@ -118,7 +118,8 @@
 		{"id":"f2fd518177df8a46","x":-3008,"y":5985,"width":250,"height":60,"type":"text","text":"watchEffect"},
 		{"id":"2f102dc864fc810c","x":-3212,"y":6154,"width":250,"height":60,"type":"text","text":"watchPostEffect"},
 		{"id":"9ad5ffdcc46e4813","x":-2909,"y":6154,"width":250,"height":60,"type":"text","text":"watchSyncEffect"},
-		{"id":"8f6d73bfb9121cd5","type":"text","text":"**computed**\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391}
+		{"id":"8f6d73bfb9121cd5","type":"text","text":"**computed**\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391},
+		{"id":"b3226e0003ec5b36","x":-3077,"y":5135,"width":250,"height":60,"type":"text","text":"Dep"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -248,6 +249,8 @@
 		{"id":"950c8490c55811d8","fromNode":"dd66d8c125cb253b","fromSide":"bottom","toNode":"d51a239e1984db2e","toSide":"top"},
 		{"id":"7604501e3d55b48c","fromNode":"dd66d8c125cb253b","fromSide":"bottom","toNode":"f2fd518177df8a46","toSide":"top"},
 		{"id":"cb06fffe225cd4e1","fromNode":"f2fd518177df8a46","fromSide":"bottom","toNode":"2f102dc864fc810c","toSide":"top"},
-		{"id":"799bcd83ea801652","fromNode":"f2fd518177df8a46","fromSide":"bottom","toNode":"9ad5ffdcc46e4813","toSide":"top"}
+		{"id":"799bcd83ea801652","fromNode":"f2fd518177df8a46","fromSide":"bottom","toNode":"9ad5ffdcc46e4813","toSide":"top"},
+		{"id":"6fbfee3b3f2508ad","fromNode":"e2f9415fccb58a78","fromSide":"left","toNode":"b3226e0003ec5b36","toSide":"right"},
+		{"id":"d20045dda3a11a16","fromNode":"3913d9d62d6dfee9","fromSide":"bottom","toNode":"b3226e0003ec5b36","toSide":"right"}
 	]
 }
