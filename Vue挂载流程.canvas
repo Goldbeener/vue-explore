@@ -119,8 +119,8 @@
 		{"id":"2f102dc864fc810c","type":"text","text":"watchPostEffect","x":-3212,"y":6154,"width":250,"height":60},
 		{"id":"9ad5ffdcc46e4813","type":"text","text":"watchSyncEffect","x":-2909,"y":6154,"width":250,"height":60},
 		{"id":"8f6d73bfb9121cd5","type":"text","text":"**computed**\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391},
-		{"id":"b3226e0003ec5b36","type":"text","text":"Dep  <Map>\n\n响应式数据的副作用函数存储桶","x":-3243,"y":5135,"width":416,"height":132},
-		{"id":"e7f02edb74064c54","type":"text","text":"属性存储对象 <Map>","x":-3777,"y":5048,"width":373,"height":174}
+		{"id":"b3226e0003ec5b36","type":"text","text":"Dep  [Map]\n\n响应式数据的副作用函数存储桶","x":-3243,"y":5135,"width":416,"height":132},
+		{"id":"e7f02edb74064c54","type":"text","text":"对象属性存储对象 [Map]\n属性粒度收集依赖，精确","x":-3777,"y":5048,"width":373,"height":124}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
