@@ -99,7 +99,7 @@
 		{"id":"6966a6cdbd43889d","type":"text","text":"setter","x":-1881,"y":5441,"width":250,"height":60},
 		{"id":"e2f9415fccb58a78","type":"text","text":"track","x":-2249,"y":5607,"width":250,"height":60},
 		{"id":"906541cfb7437d4f","type":"text","text":"trigger","x":-1916,"y":5607,"width":250,"height":60},
-		{"id":"82bdbb3dd8845a35","type":"text","text":"**ReactiveEffect**\nxiang yi","x":-2147,"y":5836,"width":300,"height":60},
+		{"id":"82bdbb3dd8845a35","type":"text","text":"**ReactiveEffect**\n响应式的核心类","x":-2147,"y":5836,"width":300,"height":91},
 		{"id":"9ee50fbc3994b058","type":"text","text":"effect(fn, conf)\n函数\n执行fn函数，并且追踪fn函数内使用到的响应式数据\n当数据变化时，重新执行fn\n就是建立fn与内部响应式数据的响应式关联\n\n\n+ trackEffect\n+ triggerEffect\n+ schedule 副作用函数调度\n\t+ 懒执行\n\t+ 调度执行","x":-1973,"y":6059,"width":455,"height":394},
 		{"id":"9084dc6872defa91","type":"text","text":"dep\n依赖收集","x":-2480,"y":6103,"width":250,"height":175},
 		{"id":"1432881402325272","type":"text","text":"effectScope","x":-1884,"y":6590,"width":250,"height":60},
