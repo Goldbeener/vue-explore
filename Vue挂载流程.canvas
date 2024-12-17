@@ -116,7 +116,9 @@
 		{"id":"c21e12344489332b","type":"text","text":"引用类型，value返回的是reactive处理后的proxy对象。\n\n引用类型整体的变更（引用地址的变更）通过getter/setter实现响应式\n\n引用类型属性的响应式依靠proxy拦截实现","x":-2389,"y":4560,"width":263,"height":374},
 		{"id":"dd66d8c125cb253b","x":-3001,"y":5748,"width":250,"height":60,"type":"text","text":"watchAPI"},
 		{"id":"d51a239e1984db2e","x":-3342,"y":5997,"width":250,"height":60,"type":"text","text":"watch"},
-		{"id":"f2fd518177df8a46","x":-3008,"y":5985,"width":250,"height":60,"type":"text","text":"watchEffect"}
+		{"id":"f2fd518177df8a46","x":-3008,"y":5985,"width":250,"height":60,"type":"text","text":"watchEffect"},
+		{"id":"2f102dc864fc810c","x":-3212,"y":6154,"width":250,"height":60,"type":"text","text":"watchPostEffect"},
+		{"id":"9ad5ffdcc46e4813","x":-2909,"y":6154,"width":250,"height":60,"type":"text","text":"watchSyncEffect"}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
@@ -244,6 +246,8 @@
 		{"id":"3f280cf8e3ea91ad","fromNode":"e5e446368854045f","fromSide":"bottom","toNode":"8f6d73bfb9121cd5","toSide":"top"},
 		{"id":"bf32a47f8fad0e81","fromNode":"82bdbb3dd8845a35","fromSide":"left","toNode":"dd66d8c125cb253b","toSide":"right"},
 		{"id":"950c8490c55811d8","fromNode":"dd66d8c125cb253b","fromSide":"bottom","toNode":"d51a239e1984db2e","toSide":"top"},
-		{"id":"7604501e3d55b48c","fromNode":"dd66d8c125cb253b","fromSide":"bottom","toNode":"f2fd518177df8a46","toSide":"top"}
+		{"id":"7604501e3d55b48c","fromNode":"dd66d8c125cb253b","fromSide":"bottom","toNode":"f2fd518177df8a46","toSide":"top"},
+		{"id":"cb06fffe225cd4e1","fromNode":"f2fd518177df8a46","fromSide":"bottom","toNode":"2f102dc864fc810c","toSide":"top"},
+		{"id":"799bcd83ea801652","fromNode":"f2fd518177df8a46","fromSide":"bottom","toNode":"9ad5ffdcc46e4813","toSide":"top"}
 	]
 }
