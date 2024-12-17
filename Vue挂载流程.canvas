@@ -118,7 +118,7 @@
 		{"id":"f2fd518177df8a46","x":-3008,"y":5985,"width":250,"height":60,"type":"text","text":"watchEffect"},
 		{"id":"2f102dc864fc810c","x":-3212,"y":6154,"width":250,"height":60,"type":"text","text":"watchPostEffect"},
 		{"id":"9ad5ffdcc46e4813","x":-2909,"y":6154,"width":250,"height":60,"type":"text","text":"watchSyncEffect"},
-		{"id":"8f6d73bfb9121cd5","type":"text","text":"computed\n是一个lei","x":-3082,"y":3834,"width":444,"height":391}
+		{"id":"8f6d73bfb9121cd5","type":"text","text":"computed\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n","x":-3082,"y":3834,"width":444,"height":391}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
