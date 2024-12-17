@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03渲染器/渲染函数.md",
+                "file": "02响应式系统/5.响应式数据延伸.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "渲染函数"
+              "title": "5.响应式数据延伸"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
-    "Virtual DOM.md",
     "03渲染器/渲染函数.md",
+    "Virtual DOM.md",
     "Vue挂载流程.canvas",
     "02响应式系统/1.响应式系统.md",
     "02响应式系统/2.响应式设计.md",
