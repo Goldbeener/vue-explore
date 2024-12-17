@@ -99,7 +99,7 @@
 		{"id":"6966a6cdbd43889d","type":"text","text":"setter","x":-1881,"y":5441,"width":250,"height":60},
 		{"id":"e2f9415fccb58a78","type":"text","text":"track","x":-2249,"y":5607,"width":250,"height":60},
 		{"id":"906541cfb7437d4f","type":"text","text":"trigger","x":-1916,"y":5607,"width":250,"height":60},
-		{"id":"82bdbb3dd8845a35","type":"text","text":"ReactiveEffect","x":-2147,"y":5836,"width":250,"height":60},
+		{"id":"82bdbb3dd8845a35","type":"text","text":"**ReactiveEffect**\nxiang yi","x":-2147,"y":5836,"width":300,"height":60},
 		{"id":"9ee50fbc3994b058","type":"text","text":"effect(fn, conf)\n函数\n执行fn函数，并且追踪fn函数内使用到的响应式数据\n当数据变化时，重新执行fn\n就是建立fn与内部响应式数据的响应式关联\n\n\n+ trackEffect\n+ triggerEffect\n+ schedule 副作用函数调度\n\t+ 懒执行\n\t+ 调度执行","x":-1973,"y":6059,"width":455,"height":394},
 		{"id":"9084dc6872defa91","type":"text","text":"dep\n依赖收集","x":-2480,"y":6103,"width":250,"height":175},
 		{"id":"1432881402325272","type":"text","text":"effectScope","x":-1884,"y":6590,"width":250,"height":60},
@@ -107,8 +107,8 @@
 		{"id":"0199c96966223616","type":"text","text":"RefImpl 类\n实例是一个对象，仅有一个名为value的属性\n并且value是通过getter/setter设置的，在这里面完成依赖收集和响应变更","x":-2553,"y":4146,"width":327,"height":225},
 		{"id":"e5e446368854045f","type":"text","text":"响应式系统","x":-1249,"y":3297,"width":232,"height":86,"color":"1"},
 		{"id":"c6705674d1360623","type":"text","text":"非首次update","x":-1499,"y":2944,"width":250,"height":95},
-		{"id":"c0bf7fb91265a0b6","type":"text","text":"ref","x":-2351,"y":3834,"width":250,"height":60},
-		{"id":"aa9a77c55bf896df","type":"text","text":"Reactive\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-1897,"y":3834,"width":290,"height":426},
+		{"id":"c0bf7fb91265a0b6","type":"text","text":"**ref**","x":-2351,"y":3834,"width":250,"height":60},
+		{"id":"aa9a77c55bf896df","type":"text","text":"**Reactive**\n+ reactive\n+ shallowReactive\n+ readonly\n+ shallowReadonly\n+ isReactive\n+ isReadonly\n+ isShallow\n+ toReactive\n+ toReadonly\n+ toRaw","x":-1897,"y":3834,"width":290,"height":426},
 		{"id":"62a028c8baa3ec7a","type":"text","text":"proxy\n根据代理的数据源不同，使用不同的代理配置\n\n常见对象\n+ Object\n+ Array\n\n集合\n+ Map\n+ Set\n+ WeakMap\n+ WeakSet","x":-1844,"y":4516,"width":356,"height":273},
 		{"id":"5181678fc670eff6","type":"text","text":"createReactiveObject","x":-1844,"y":4371,"width":316,"height":50},
 		{"id":"3913d9d62d6dfee9","type":"text","text":"基本值通过value属性的getter、setter实现响应","x":-2763,"y":4560,"width":250,"height":130},
@@ -118,7 +118,7 @@
 		{"id":"f2fd518177df8a46","x":-3008,"y":5985,"width":250,"height":60,"type":"text","text":"watchEffect"},
 		{"id":"2f102dc864fc810c","x":-3212,"y":6154,"width":250,"height":60,"type":"text","text":"watchPostEffect"},
 		{"id":"9ad5ffdcc46e4813","x":-2909,"y":6154,"width":250,"height":60,"type":"text","text":"watchSyncEffect"},
-		{"id":"8f6d73bfb9121cd5","type":"text","text":"computed\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391}
+		{"id":"8f6d73bfb9121cd5","type":"text","text":"**computed**\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391}
 	],
 	"edges":[
 		{"id":"2eb3ba0641c06cfc","fromNode":"2de59a04fe28f997","fromSide":"right","toNode":"2dd5a04edb472459","toSide":"left"},
