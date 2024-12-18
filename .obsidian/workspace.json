@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vue挂载流程.canvas",
+                "file": "02响应式系统/6.effectScope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Vue挂载流程 的反向链接列表"
+              "title": "6.effectScope 的反向链接列表"
             }
           },
           {
@@ -201,12 +201,12 @@
   },
   "active": "d755b1638938850f",
   "lastOpenFiles": [
-    "02响应式系统/5.响应式数据延伸.md",
+    "Vue挂载流程.canvas",
     "02响应式系统/6.effectScope.md",
+    "02响应式系统/5.响应式数据延伸.md",
     "02响应式系统/4.原始值响应方案.md",
     "02响应式系统/3.非原始值响应方案.md",
     "02响应式系统/1.响应式系统.md",
-    "Vue挂载流程.canvas",
     "vue3设计与实现.canvas",
     "03渲染器/渲染函数.md",
     "Virtual DOM.md",
@@ -239,7 +239,6 @@
     "03渲染器/dom diff.md",
     "02响应式系统",
     "03渲染器",
-    "05编译器/编译器.md",
     "05编译器",
     "Pasted image 20240221165749.png",
     "Pasted image 20240221165940.png",
