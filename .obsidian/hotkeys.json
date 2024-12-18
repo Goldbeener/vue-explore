@@ -6,5 +6,13 @@
       ],
       "key": "H"
     }
+  ],
+  "floating-toc:hide-toc-panel": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }
