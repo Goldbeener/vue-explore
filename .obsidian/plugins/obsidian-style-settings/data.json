@@ -5,10 +5,5 @@
   "blue-topaz-theme@@accent-strong@@dark": "#52B948",
   "blue-topaz-theme@@colorful-ordered-list": true,
   "blue-topaz-theme@@colorful-unordered-list": true,
-  "Blue-Topaz-Codebox-Highlight@@text-color-code@@dark": "#0AC33D",
-  "floating-toc-styles@@floating-toc-line-width": 16,
-  "floating-toc-styles@@floating-toc-font-size": 1,
-  "floating-toc-styles@@enable-heading-nowrap": true,
-  "floating-toc-styles@@floating-toc-font-color@@dark": "#00FFFF",
-  "floating-toc-styles@@enable-outline-style": "float-outline-style"
+  "Blue-Topaz-Codebox-Highlight@@text-color-code@@dark": "#0AC33D"
 }
