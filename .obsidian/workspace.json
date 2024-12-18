@@ -156,13 +156,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vue挂载流程.canvas"
+                "file": "02响应式系统/6.effectScope.md"
               },
               "icon": "lucide-list",
-              "title": "Vue挂载流程 的大纲"
+              "title": "6.effectScope 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
