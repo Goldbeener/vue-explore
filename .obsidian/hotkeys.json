@@ -1,1 +1,10 @@
-{}
+{
+  "floating-toc:pin-toc-panel": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ]
+}
