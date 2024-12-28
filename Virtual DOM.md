@@ -34,4 +34,8 @@
 虚拟DOM作用：
 1. 跨平台能力
 虚拟DOM使用js对象来表示页面信息，这个对象可以根据需要，自定义渲染成不同的内容
-SSR渲染；canvas/webGL； 甚至是nativeke h
+SSR渲染；canvas/webGL； 甚至是native客户端页面
+
+**自定义渲染器**
+
+
