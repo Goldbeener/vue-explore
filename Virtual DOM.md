@@ -46,4 +46,4 @@ SSR渲染；canvas/webGL； 甚至是native客户端页面
 渲染函数 VS template
 
 template 更多用于日常UI开发，feature组件
-渲染函数，更多用于
+渲染函数，更多用于功能型组件，组件的主要目的是用来做逻辑封装；
