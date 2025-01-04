@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"2de59a04fe28f997","type":"text","text":"renderer = createRenderer(renderOptions)\n创建renderer渲染器 ","x":-297,"y":-158,"width":538,"height":87},
 		{"id":"d083d38eb0ef9788","type":"text","text":"import { createApp } from vue\n引入vue库，在全局创建了一系列相关的对象","x":-405,"y":-338,"width":443,"height":129},
-		{"id":"30461df90c4e5044","type":"text","text":"app = renderer.createApp({})\n创建app应用实例\n传递参数是根实例","x":-91,"y":-12,"width":420,"height":105},
+		{"id":"30461df90c4e5044","type":"text","text":"app = renderer.createApp({})\n创建app应用实例\n传递参数是根组件","x":-91,"y":-12,"width":420,"height":105},
 		{"id":"ce841c57e7e5652f","type":"text","text":"container = normalizeContainer(selector)\nvnode = createVNode(rootComp)\nrender(vnode, container)\n","x":125,"y":299,"width":595,"height":99},
 		{"id":"81fe3fdc54da6a89","type":"text","text":"unmount","x":119,"y":574,"width":250,"height":60},
 		{"id":"91073b98d9e3aa84","type":"text","text":"patch(n1, n2)","x":507,"y":574,"width":250,"height":60},
@@ -115,7 +115,7 @@
 		{"id":"8f6d73bfb9121cd5","type":"text","text":"**computed**\n是一个类ref的响应式对象\n\n有一个getter/setter属性value\n\n在第一次被使用(读取)的时候，才开始计算，然后缓存\n","x":-3082,"y":3834,"width":444,"height":391},
 		{"id":"b3226e0003ec5b36","type":"text","text":"Dep  [Map]\n\n响应式数据的副作用函数存储桶\n\n副作用函数是key\nvalue是一个id","x":-3243,"y":5135,"width":416,"height":276},
 		{"id":"e7f02edb74064c54","type":"text","text":"对象属性存储桶 [Map]\n属性粒度收集依赖，精确","x":-3777,"y":5048,"width":373,"height":124},
-		{"id":"89645f9a4d4819ac","x":-4320,"y":5006,"width":250,"height":208,"type":"text","text":"响应式对象存储桶 【WeakMap】\n\n使用weakMap不额外产生引用， 不影响垃圾回收"},
+		{"id":"89645f9a4d4819ac","type":"text","text":"响应式对象存储桶 【WeakMap】\n\n使用weakMap不额外产生引用， 不影响垃圾回收","x":-4320,"y":5006,"width":250,"height":208},
 		{"id":"d51a239e1984db2e","type":"text","text":"watch","x":-3493,"y":6230,"width":250,"height":60},
 		{"id":"f2fd518177df8a46","type":"text","text":"watchEffect","x":-3159,"y":6218,"width":250,"height":60},
 		{"id":"2f102dc864fc810c","type":"text","text":"watchPostEffect","x":-3363,"y":6387,"width":250,"height":60},
