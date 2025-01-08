@@ -11,17 +11,14 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Vue挂载流程.canvas",
-                "viewState": {
-                  "x": 187.9341296216625,
-                  "y": 225.5079018095148,
-                  "zoom": -0.09035394851682141
-                }
+                "file": "03渲染器/渲染函数.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Vue挂载流程"
+              "icon": "lucide-file",
+              "title": "渲染函数"
             }
           }
         ]
@@ -187,6 +184,8 @@
   },
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
+    "03渲染器/渲染器.md",
+    "Vue挂载流程.canvas",
     "vue3设计与实现.canvas",
     "Virtual DOM.md",
     "02响应式系统/2.响应式设计.md",
@@ -194,7 +193,6 @@
     "02响应式系统/4.原始值响应方案.md",
     "02响应式系统/5.响应式数据延伸.md",
     "02响应式系统/6.effectScope.md",
-    "Vue挂载流程.canvas",
     "02响应式系统/3.非原始值响应方案.md",
     "03渲染器/渲染函数.md",
     "vue3技术点.canvas",
@@ -213,7 +211,6 @@
     "05编译器/编译优化.md",
     "Vapor Mode.md",
     "05编译器/解析器.md",
-    "03渲染器/渲染器.md",
     "06服务端渲染/同构渲染.md",
     "06服务端渲染",
     "Vue3.md",
