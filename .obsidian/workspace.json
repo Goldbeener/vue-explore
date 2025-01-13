@@ -13,18 +13,33 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Vue挂载流程.canvas",
+                "file": "vue3设计与实现.canvas",
                 "viewState": {
-                  "x": -1858.8505535318652,
-                  "y": 6305.260817601384,
-                  "zoom": -0.16175262266781548
+                  "x": -106,
+                  "y": 1217,
+                  "zoom": -1.353193974926213
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Vue挂载流程"
+              "title": "vue3设计与实现"
+            }
+          },
+          {
+            "id": "05fea88b92aaf542",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02响应式系统/2.响应式设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.响应式设计"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,12 +200,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4e7ddd16e7a18975",
+  "active": "05fea88b92aaf542",
   "lastOpenFiles": [
     "vue3设计与实现.canvas",
     "02响应式系统/2.响应式设计.md",
-    "02响应式系统/1.响应式系统.md",
     "Vue挂载流程.canvas",
+    "02响应式系统/1.响应式系统.md",
     "状态与Hook函数.md",
     "04组件化/函数式组件.md",
     "04组件化/组件化.md",
