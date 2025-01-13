@@ -11,14 +11,17 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "状态与Hook函数.md",
-                "mode": "source",
-                "source": false
+                "file": "Vue挂载流程.canvas",
+                "viewState": {
+                  "x": -1468.4606075228571,
+                  "y": 4748.300741391317,
+                  "zoom": -0.9952450706990332
+                }
               },
-              "icon": "lucide-file",
-              "title": "状态与Hook函数"
+              "icon": "lucide-layout-dashboard",
+              "title": "Vue挂载流程"
             }
           }
         ]
@@ -184,12 +187,13 @@
   },
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
+    "vue3设计与实现.canvas",
+    "状态与Hook函数.md",
     "04组件化/函数式组件.md",
     "04组件化/组件化.md",
     "03渲染器/渲染函数.md",
     "03渲染器/渲染器.md",
     "Vue挂载流程.canvas",
-    "vue3设计与实现.canvas",
     "Virtual DOM.md",
     "02响应式系统/2.响应式设计.md",
     "02响应式系统/1.响应式系统.md",
@@ -202,7 +206,6 @@
     "依赖注入 Provide-Inject.md",
     "07相关技术点/Proxy & Reflect.md",
     "01框架概览/视图框架思想.md",
-    "状态与Hook函数.md",
     "逻辑复用.md",
     "01框架概览/编程范式.md",
     "02响应式系统/0mgs",
