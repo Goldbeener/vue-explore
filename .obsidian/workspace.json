@@ -30,12 +30,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02响应式系统/2.响应式设计.md",
+                "file": "逻辑复用.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.响应式设计"
+              "title": "逻辑复用"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "05fea88b92aaf542",
   "lastOpenFiles": [
-    "vue3设计与实现.canvas",
     "02响应式系统/2.响应式设计.md",
+    "vue3设计与实现.canvas",
     "Vue挂载流程.canvas",
     "02响应式系统/1.响应式系统.md",
     "状态与Hook函数.md",
