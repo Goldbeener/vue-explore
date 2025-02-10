@@ -1,0 +1,7 @@
+.image-embed {
+  background-color: cyan;
+}
+/* 边距修改 */
+.nav-files-container .tree-item-inner{
+  margin-left: 0px!important;
+}
