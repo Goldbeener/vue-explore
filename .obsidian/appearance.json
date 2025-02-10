@@ -6,6 +6,7 @@
   "textFontFamily": "Andale Mono",
   "baseFontSize": 20,
   "enabledCssSnippets": [
-    "minimal-plus"
+    "minimal-plus",
+    "theme"
   ]
 }
