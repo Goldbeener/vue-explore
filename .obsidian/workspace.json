@@ -11,35 +11,17 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "vue3设计与实现.canvas",
-                "viewState": {
-                  "x": -106,
-                  "y": 1217,
-                  "zoom": -1.353193974926213
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "vue3设计与实现"
-            }
-          },
-          {
-            "id": "05fea88b92aaf542",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "逻辑复用.md",
+                "file": "01框架概览/编程范式.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "逻辑复用"
+              "title": "编程范式"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,13 +183,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "05fea88b92aaf542",
+  "active": "1c206c6b0d686709",
   "lastOpenFiles": [
-    "02响应式系统/2.响应式设计.md",
-    "vue3设计与实现.canvas",
+    "Vue3.md",
+    "vue3技术点.canvas",
     "Vue挂载流程.canvas",
-    "02响应式系统/1.响应式系统.md",
+    "vue3设计与实现.canvas",
     "状态与Hook函数.md",
+    "逻辑复用.md",
+    "02响应式系统/2.响应式设计.md",
+    "02响应式系统/1.响应式系统.md",
     "04组件化/函数式组件.md",
     "04组件化/组件化.md",
     "03渲染器/渲染函数.md",
@@ -217,12 +202,10 @@
     "02响应式系统/5.响应式数据延伸.md",
     "02响应式系统/6.effectScope.md",
     "02响应式系统/3.非原始值响应方案.md",
-    "vue3技术点.canvas",
     "01框架概览/0mgs",
     "依赖注入 Provide-Inject.md",
     "07相关技术点/Proxy & Reflect.md",
     "01框架概览/视图框架思想.md",
-    "逻辑复用.md",
     "01框架概览/编程范式.md",
     "02响应式系统/0mgs",
     "07相关技术点/0mgs",
@@ -233,7 +216,6 @@
     "05编译器/解析器.md",
     "06服务端渲染/同构渲染.md",
     "06服务端渲染",
-    "Vue3.md",
     "03渲染器/跨平台.md",
     "01框架概览/现代框架.md",
     "01框架概览",
