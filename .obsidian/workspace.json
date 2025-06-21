@@ -11,14 +11,17 @@
             "id": "1c206c6b0d686709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01框架概览/编程范式.md",
-                "mode": "source",
-                "source": false
+                "file": "Vue挂载流程.canvas",
+                "viewState": {
+                  "x": 250.6231975355102,
+                  "y": 1335.3841340314511,
+                  "zoom": -0.26228115051307055
+                }
               },
-              "icon": "lucide-file",
-              "title": "编程范式"
+              "icon": "lucide-layout-dashboard",
+              "title": "Vue挂载流程"
             }
           }
         ]
@@ -185,10 +188,11 @@
   },
   "active": "1c206c6b0d686709",
   "lastOpenFiles": [
-    "Vue3.md",
     "vue3技术点.canvas",
-    "Vue挂载流程.canvas",
     "vue3设计与实现.canvas",
+    "Vue挂载流程.canvas",
+    "01框架概览/编程范式.md",
+    "Vue3.md",
     "状态与Hook函数.md",
     "逻辑复用.md",
     "02响应式系统/2.响应式设计.md",
@@ -206,7 +210,6 @@
     "依赖注入 Provide-Inject.md",
     "07相关技术点/Proxy & Reflect.md",
     "01框架概览/视图框架思想.md",
-    "01框架概览/编程范式.md",
     "02响应式系统/0mgs",
     "07相关技术点/0mgs",
     "0mgs/render-pipeline.png",
